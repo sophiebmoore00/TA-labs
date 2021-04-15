@@ -1,0 +1,137 @@
+---
+title: "POLS 361 Lab 2"
+author: "Your Names"
+date: "Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#These are global specifications for how the RMarkdown file should knit. 
+#Do not change these or delete these!
+knitr::opts_chunk$set(echo = TRUE, 
+                      tidy = TRUE, 
+                      message = FALSE, 
+                      fig.align = "center")
+```
+
+## Lab Submission Instructions
+
+Welcome to Lab 2! your workgroup should complete this lab as a group and submit a **single file**. There is an optional extra credit option at the end, and the extra credit should be completed and submitted **individually** (this means that not everyone in the group needs to do extra credit if you don't want to, as it will be graded individually). 
+
+To submit the extra credit, individually resubmit this document with the extra credit section completed. 
+
+## RMarkdown 
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button an HTML document will be generated that includes both written content, as well as the output of any embedded R code chunks within the document. RMarkdown is a very powerful tool for authoring reports, doing lab assignments, etc. that allows us to seamlessly combine R code, R code output, and written content. POLS 361 labs will be completed in RMarkdown because it is easy to include both code and explanations/interpretations of that code in one place.
+
+In this lab we will begin to explore the basics of R!
+
+## Section 1: Load the Data
+
+First, let's try loading in some data. Ensure that the data file is saved in the **same folder** as this Rmd document on your computer before continuing. In order for R to find your data, set your working directory to the folder that contains the data and this Rmd doc (I recommend creating a POLS 361 folder on your desktop, and then making a new nested folder for each lab assignment, so that your Rmd doc and data files will be saved in the same place). 
+
+To set the working directory on Macs, go to the Menu Bar under Session > Set Working Directory > Choose Directory. Then, select the folder where this document and the data are stored. For Windows OS, use Tools > Change Working Directory. 
+
+Next, let's load in the data! The data we will be working with today is on crime rates in 440 counties in the US, and includes variables such as the number of crimes per 100k people, county population, number of physicians, educational achievement measurements, poverty and unemployment rates, and the region of the United States. 
+
+Run this code chunk by clicking the green arrow in the right corner to create the variable `crimeData` and load the Crime Rate dataset into the variable with the `read.csv()` function. The `crimeData` object should appear in your global environment in the upper right pane of the RStudio IDE.
+
+(Note: an alternative way to run the current line of code or multiple highlighted lines is Cmd+Enter on Mac or Cntrl+Enter on Windows)
+
+__1. Run the code chunk to load in the data, and ensure it appears in your Global Environment__
+
+```{r 1}
+crimeData <- read.csv("CrimeRate.csv")
+```
+
+## Section 2: View the Data
+
+In order to view your data, you can either click on the name of your variable in the Global Environment pane in the upper right hand corner, or run `View(crimeData)` in the console.
+
+__2. In the code chunk below, use the `str()` function to view the overall structure of the data.__ 
+
+```{r 2a}
+
+```
+
+__3. How many observations are in this data set? How many variables?__
+<!-- Your response goes here! Do not remove this line! -->
+
+
+__4. What are the names of 5 variables (columns) in this data that seem interesting?__
+<!-- Your response goes here! Do not remove this line! -->
+
+
+The `head()` function allows you to view the first 6 rows of your data, which is a useful way to quickly get an idea of what the observations in your data look like.
+
+__5. Use `head()` in the code chunk below to view the first 6 rows of the data.__
+
+```{r 2b}
+
+```
+
+Now let's look at some summary statistics of the variables. Choose a variable from `crimeData` that seems interesting to you. You can use the `summary()` command in the code chunk below to find summary characteristics of a variable, such as the min, max, mean, and quartiles. 
+
+Hint: use the `$` operator to access a column of a data frame with the syntax `dataName$columnName`.
+
+__6. Use `summary()` with the variable you chose and examine the output.__
+
+```{r 2c}
+
+```
+
+__7. Which variable did you examine? And what was the output of the call to `summary()`?__
+<!-- Your response goes here! Do not remove this line! -->
+
+
+## Section 3: Plot the Data 
+
+A good way to get an easy grasp of your data prior to beginning any analysis is through visualizations. Luckily, R makes it very easy to create simple plots. 
+
+First, run the code chunk below to see an example of a plot with the base R `plot()` function (you don't need to edit any of this code before running it). Read the documentation (anything written after a `#`) for further explanation. 
+
+```{r 3a}
+#Example plot code
+
+plot(formula = CrimesPer100K ~ HSGrad, #choose the variables to plot, in the format y~x
+     data = crimeData, #tell R the dataset that these variables come from
+     main = "Crimes per 100k People vs. HS Graduation Rate of US Counties", #add a title to the plot
+     ylab = "Crimes per 100k People", #label the y axis
+     xlab = "High School Graduation Rate") #label the x axis
+abline(lm(CrimesPer100K ~ HSGrad, data = crimeData), col = "blue") #add in the fitted line 
+```
+
+Now it's your turn to create a plot! Here are the basic steps:
+  -Choose a predictor/independent/x variable and a response/dependent/y variable from the data
+  -Input the variable names (by replacing the y and x placeholders) into the plot function in the code chunk below. 
+  -Don't forget to identify the dataset name in the `data=` argument, title your plot, and label the axes with descriptive names!
+  
+Hint: Make sure both the variables you choose are quantitative!
+
+__8. Edit the code chunk to create a scatterplot of two variables.__
+
+```{r 3b}
+plot(y ~ x, 
+     data = , 
+     main = " ", 
+     ylab = " ", 
+     xlab = " ")
+```
+
+Workgroups: You finished Lab 2; you can stop here! Have one group member submit this file. Individuals may choose to do the extra credit and resubmit this file with the extra credit section completed (if you choose to do so). Great work!!
+
+## Section 4: Optional Extra Credit
+
+For extra credit, edit your code from Section 3 to add something extra to your plot. For example, 
+  -Change the color/shape of the points
+  -Add in a least squares regression line like in the example code
+  -Figure out how to use ggplot for an extra challenge
+  -Anything else!
+
+There is extremely extensive documentation of R online, so you can search online for ideas. Another option is accessing the help file for the `plot()` function by typing `?plot()` in the console, and selecting "Generic X-Y Plotting". 
+
+__Extra Credit: What "extra" did you add to your plot?__
+<!-- Your response goes here! Do not remove this line! -->
+
