@@ -85,7 +85,7 @@ mean <- mean(x) #mean
 sd <- sd(x) #standard deviation
 mu <- NA #replace this with the population parameter from the hypotheses
 
-t_stat <- (mean - mu) / (sd - sqrt(n))
+t_stat <- (mean - mu) / (sd / sqrt(n))
 ```
 
 __3. In the code chunk below, calculate the t-stat to test whether or not the average budget for A-list movies from 1970 to 2013 is greater than $50,000,000.__
