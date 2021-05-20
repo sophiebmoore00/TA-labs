@@ -1,0 +1,34 @@
+---
+title: "Lab 4"
+author: "Your Names Here"
+date: "Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#These are global specifications for how the RMarkdown file should knit. 
+#Do not change these or delete these!
+knitr::opts_chunk$set(echo = TRUE, 
+                      tidy = TRUE, 
+                      message = FALSE, 
+                      fig.align = "center")
+```
+
+```{r libraries}
+#load in some packages--make sure to run this code chunk!
+#if you don't have tidyverse installed, uncomment and run the next line 
+
+#install.packages("tidyverse")
+library(tidyverse)
+```
+
+## Hypothesis Testing Cont. 
+
+First, let's load in the data. The data are stored in a .csv file, so read in the data using `read.csv()`. Don't forget to assign the data to a variable. 
+
+__1. Load in the data in the code chunk below with `read.csv()` and name the variable `_data`.__
+
+```{r}
+
+```
+
