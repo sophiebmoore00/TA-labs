@@ -1,0 +1,1795 @@
+"","title","year","test","clean_test","binary","budget_2013","domgross_2013","intgross_2013"
+"1","21 &amp; Over",2013,"notalk","notalk","FAIL",13000000,25682380,42195766
+"2","Dredd 3D",2012,"ok-disagree","ok","PASS",45658735,13611086,41467257
+"3","12 Years a Slave",2013,"notalk-disagree","notalk","FAIL",20000000,53107035,158607035
+"4","2 Guns",2013,"notalk","notalk","FAIL",61000000,75612460,132493015
+"5","42",2013,"men","men","FAIL",40000000,95020213,95020213
+"6","47 Ronin",2013,"men","men","FAIL",225000000,38362475,145803842
+"7","A Good Day to Die Hard",2013,"notalk","notalk","FAIL",92000000,67349198,304249198
+"8","About Time",2013,"ok-disagree","ok","PASS",12000000,15323921,87324746
+"9","Admission",2013,"ok","ok","PASS",13000000,18007317,18007317
+"10","After Earth",2013,"notalk","notalk","FAIL",130000000,60522097,244373198
+"11","American Hustle",2013,"ok-disagree","ok","PASS",40000000,148430908,249484909
+"12","August: Osage County",2013,"ok","ok","PASS",25000000,37304874,50304874
+"13","Beautiful Creatures",2013,"ok","ok","PASS",50000000,19452138,55940671
+"14","Blue Jasmine",2013,"ok-disagree","ok","PASS",18000000,33345833,68447831
+"15","Captain Phillips",2013,"notalk","notalk","FAIL",55000000,107136417,218743570
+"16","Carrie",2013,"ok","ok","PASS",30000000,35266619,85001659
+"17","Cloudy with a Chance of Meatballs 2",2013,"nowomen-disagree","nowomen","FAIL",78000000,119640264,271725448
+"18","Despicable Me 2",2013,"ok","ok","PASS",76000000,368065385,970766005
+"19","Don Jon",2013,"dubious-disagree","dubious","FAIL",5500000,24477704,26377704
+"20","Elysium",2013,"ok-disagree","ok","PASS",120000000,93050117,286192091
+"21","Ender&#39;s Game",2013,"men","men","FAIL",110000000,61737191,89737191
+"22","Epic",2013,"ok-disagree","ok","PASS",100000000,107518682,268418682
+"23","Escape from Planet Earth",2013,"ok","ok","PASS",40000000,57012977,66454811
+"24","Escape Plan",2013,"men","men","FAIL",70000000,25213103,103813103
+"25","Evil Dead",2013,"ok-disagree","ok","PASS",17000000,54239856,97402049
+"26","Fast and Furious 6",2013,"ok-disagree","ok","PASS",160000000,238679850,788128122
+"27","Frozen",2013,"ok","ok","PASS",150000000,393050114,1004550114
+"28","G.I. Joe: Retaliation",2013,"ok-disagree","ok","PASS",140000000,122523060,371923060
+"29","Gangster Squad",2013,"notalk","notalk","FAIL",60000000,46000903,104100903
+"30","Gloria",2013,"ok","ok","PASS",30000000,4167493,4967493
+"31","Gravity",2013,"nowomen-disagree","nowomen","FAIL",110000000,271814796,708714796
+"32","Grown Ups 2",2013,"men-disagree","men","FAIL",80000000,133668525,247023808
+"33","Hansel &amp; Gretel: Witch Hunters",2013,"ok","ok","PASS",50000000,55703475,225703475
+"34","Her",2013,"men-disagree","men","FAIL",23000000,25000178,33029713
+"35","Identity Thief",2013,"men-disagree","men","FAIL",35000000,134506920,176269721
+"36","Insidious: Chapter 2",2013,"men","men","FAIL",5000000,83586447,161911222
+"37","Iron Man 3",2013,"dubious-disagree","dubious","FAIL",200000000,408992272,1212692272
+"38","Jack the Giant Slayer",2013,"nowomen-disagree","nowomen","FAIL",195000000,65187603,197387603
+"39","Kick-Ass 2",2013,"ok","ok","PASS",28000000,28795985,60839197
+"40","Last Vegas",2013,"notalk","notalk","FAIL",28000000,63914167,112914167
+"41","Lee Daniels&#39; The Butler",2013,"ok","ok","PASS",30000000,116632095,151513429
+"42","Machete Kills",2013,"ok","ok","PASS",2000000,8008161,9408161
+"43","Mama",2013,"ok","ok","PASS",15000000,71628180,148041253
+"44","Man of Steel",2013,"ok-disagree","ok","PASS",225000000,291045518,687999518
+"45","Nebraska",2013,"ok-disagree","ok","PASS",12000000,17482517,17482517
+"46","Now You See Me",2013,"notalk-disagree","notalk","FAIL",75000000,117723989,351723989
+"47","Oblivion",2013,"men-disagree","men","FAIL",120000000,89107235,287537983
+"48","Olympus Has Fallen",2013,"notalk","notalk","FAIL",70000000,98927592,150562164
+"49","Oz the Great and Powerful",2013,"ok-disagree","ok","PASS",200000000,234770996,489570996
+"50","Pacific Rim",2013,"notalk-disagree","notalk","FAIL",190000000,101802906,411002906
+"51","Pain &amp; Gain",2013,"notalk","notalk","FAIL",26000000,49875291,81275291
+"52","Parker",2013,"ok","ok","PASS",35000000,17616641,46346651
+"53","Peeples",2013,"dubious","dubious","FAIL",15000000,9177065,9177065
+"54","Percy Jackson: Sea of Monsters",2013,"ok","ok","PASS",90000000,68559554,200859554
+"55","Prisoners",2013,"ok","ok","PASS",46000000,61002302,113402302
+"56","R.I.P.D.",2013,"notalk","notalk","FAIL",130000000,33618855,79019947
+"57","Red 2",2013,"ok","ok","PASS",84000000,53262560,137162560
+"58","Riddick",2013,"notalk-disagree","notalk","FAIL",38000000,42025135,92425135
+"59","Runner Runner",2013,"nowomen","nowomen","FAIL",30000000,19316646,62616646
+"60","Rush",2013,"notalk","notalk","FAIL",38000000,26947624,43047624
+"61","Safe Haven",2013,"ok","ok","PASS",28000000,71399120,93943623
+"62","Saving Mr. Banks",2013,"ok","ok","PASS",35000000,82834332,100734332
+"63","Side Effects",2013,"ok","ok","PASS",30000000,32172757,60288363
+"64","Star Trek Into Darkness",2013,"notalk-disagree","notalk","FAIL",190000000,228778661,466978661
+"65","Texas Chainsaw 3D",2013,"ok-disagree","ok","PASS",20000000,34341945,39093317
+"66","The Big Wedding",2013,"ok","ok","PASS",32500000,21819348,35770721
+"67","The Book Thief",2013,"ok","ok","PASS",19000000,21345525,62045525
+"68","The Call",2013,"ok","ok","PASS",13000000,51872378,58938768
+"69","The Conjuring",2013,"ok","ok","PASS",20000000,137400141,318000141
+"70","The Counselor",2013,"ok","ok","PASS",25000000,16973715,70373715
+"71","The Croods",2013,"men-disagree","men","FAIL",135000000,187168425,573068425
+"72","The Family",2013,"men","men","FAIL",30000000,36918811,51078541
+"73","The Fifth Estate",2013,"notalk","notalk","FAIL",26000000,3254172,6154172
+"74","The Frozen Ground",2013,"nowomen-disagree","nowomen","FAIL",19200000,NA,NA
+"75","The Great Gatsby",2013,"dubious","dubious","FAIL",190000000,144840419,351040419
+"76","The Hangover part 3",2013,"men","men","FAIL",103000000,112200072,362000072
+"77","The Heat",2013,"ok","ok","PASS",43000000,159581587,230781587
+"78","The Hobbit: The Desolation of Smaug",2013,"notalk-disagree","notalk","FAIL",250000000,257397516,937397516
+"79","The Host",2013,"dubious-disagree","dubious","FAIL",50000000,26623701,58188384
+"80","The Hunger Games: Catching Fire",2013,"ok","ok","PASS",130000000,424088260,857088260
+"81","The Incredible Burt Wonderstone",2013,"notalk","notalk","FAIL",32000000,22537881,24255957
+"82","The Internship",2013,"notalk","notalk","FAIL",58000000,44672764,93672764
+"83","The Last Exorcism Part II",2013,"ok","ok","PASS",4000000,15179303,18541236
+"84","The Lone Ranger",2013,"notalk","notalk","FAIL",275000000,89289910,259989910
+"85","The Mortal Instruments: City of Bones",2013,"ok-disagree","ok","PASS",60000000,31165421,75965567
+"86","The Purge",2013,"dubious","dubious","FAIL",3000000,64473115,91100541
+"87","The Smurfs 2",2013,"ok","ok","PASS",110000000,71017784,348545841
+"88","The To Do List",2013,"ok","ok","PASS",1500000,3491669,3491669
+"89","The Way Way Back",2013,"ok-disagree","ok","PASS",5000000,21502690,26161443
+"90","The Wolf of Wall Street",2013,"notalk-disagree","notalk","FAIL",100000000,115702857,365702857
+"91","The Wolverine",2013,"ok","ok","PASS",115000000,132556852,416456852
+"92","The World&#39;s End",2013,"men-disagree","men","FAIL",20000000,26004851,46578821
+"93","This Is the End",2013,"notalk","notalk","FAIL",32000000,101470202,126294264
+"94","Thor: The Dark World",2013,"dubious-disagree","dubious","FAIL",170000000,204674790,631674790
+"95","Trance",2013,"nowomen","nowomen","FAIL",16000000,2322593,22594052
+"96","Turbo",2013,"dubious-disagree","dubious","FAIL",135000000,83028130,283828130
+"97","Warm Bodies",2013,"men-disagree","men","FAIL",30000000,66380662,116643610
+"98","We&#39;re the Millers",2013,"ok","ok","PASS",37000000,150394119,270000119
+"99","White House Down",2013,"men","men","FAIL",150000000,73103784,205440387
+"100","World War Z",2013,"dubious-disagree","dubious","FAIL",190000000,202359711,539559711
+"101","Abraham Lincoln: Vampire Hunter",2012,"dubious-disagree","dubious","FAIL",68488103,38068365,116804318
+"102","Act of Valor",2012,"nowomen","nowomen","FAIL",12175663,71037735,83704673
+"103","Amour",2012,"dubious-disagree","dubious","FAIL",9841994,6837603,26295088
+"104","Anna Karenina",2012,"men-disagree","men","FAIL",49717290,13003980,71771007
+"105","Argo",2012,"ok-disagree","ok","PASS",45151416,138016721,224540219
+"106","Battleship",2012,"notalk-disagree","notalk","FAIL",212059460,66190353,308594933
+"107","Beasts of the Southern Wild",2012,"dubious-disagree","dubious","FAIL",1826349,12983057,21388640
+"108","Blue Like Jazz",2012,"ok","ok","PASS",1217566,603728,603728
+"109","Brave",2012,"ok","ok","PASS",187708135,240755653,562725176
+"110","Bullet to the Head",2012,"nowomen","nowomen","FAIL",55805121,9628746,13760036
+"111","Chernobyl Diaries",2012,"notalk","notalk","FAIL",1014639,18384886,38951995
+"112","Chronicle",2012,"notalk","notalk","FAIL",12175663,65520463,128935373
+"113","Cloud Atlas",2012,"ok","ok","PASS",103493134,27505098,127863295
+"114","Contraband",2012,"ok","ok","PASS",25365964,67501874,99847390
+"115","Django Unchained",2012,"notalk-disagree","notalk","FAIL",101463857,165188672,431600549
+"116","Flight",2012,"dubious-disagree","dubious","FAIL",31453796,95145068,164140491
+"117","Frankenweenie",2012,"nowomen-disagree","nowomen","FAIL",39570904,35804351,82338719
+"118","Hannibal",2012,"ok","ok","PASS",88273555,167508980,355225246
+"119","Hotel Transylvania",2012,"ok","ok","PASS",86244278,150484138,364480509
+"120","Jack Reacher",2012,"notalk","notalk","FAIL",60878314,81242857,220552732
+"121","Jagten",2012,"men","men","FAIL",3500503,697244,697244
+"122","John Carter",2012,"ok-disagree","ok","PASS",279025606,74128153,286917566
+"123","Killing Them Softly",2012,"nowomen","nowomen","FAIL",15219578,15164322,37783896
+"124","Les Miserables",2012,"ok-disagree","ok","PASS",65951507,150988132,448493475
+"125","Life of Pi",2012,"notalk-disagree","notalk","FAIL",121756628,126816653,616887080
+"126","Lincoln",2012,"ok-disagree","ok","PASS",65951507,184875236,276997302
+"127","Madagascar 3: Europe&#39;s Most Wanted",2012,"men-disagree","men","FAIL",147122592,219559143,757855127
+"128","Men in Black III",2012,"notalk","notalk","FAIL",218147292,181641463,633967639
+"129","Mirror Mirror",2012,"dubious","dubious","FAIL",86244278,65885725,171080229
+"130","Moonrise Kingdom",2012,"ok","ok","PASS",16234217,46178703,64949517
+"131","Much Ado About Nothing",2012,"dubious-disagree","dubious","FAIL",8117109,22879428,22879428
+"132","One for the Money",2012,"ok","ok","PASS",42614820,26801198,36727096
+"133","Paranormal Activity 4",2012,"ok","ok","PASS",5073193,54689359,144884139
+"134","ParaNorman",2012,"notalk-disagree","notalk","FAIL",60878314,56822855,109742304
+"135","Parental Guidance",2012,"ok","ok","PASS",25365964,78398378,121927729
+"136","People Like Us",2012,"ok","ok","PASS",16234217,12613776,12613776
+"137","Pitch Perfect",2012,"ok","ok","PASS",17248856,65952616,117019460
+"138","Premium Rush",2012,"ok","ok","PASS",35512350,20572249,31852752
+"139","Red Dawn",2012,"notalk-disagree","notalk","FAIL",65951507,45462690,48869204
+"140","Red Tails",2012,"men","men","FAIL",58849037,50606496,51102777
+"141","Rise of the Guardians",2012,"notalk-disagree","notalk","FAIL",147122592,104926572,311393491
+"142","Rock of Ages",2012,"ok","ok","PASS",71024700,39082470,50852278
+"143","Safe",2012,"notalk-disagree","notalk","FAIL",33483073,17393015,42102643
+"144","Safety Not Guaranteed",2012,"ok-disagree","ok","PASS",760979,4069672,4477791
+"145","Seven Psychopaths",2012,"notalk-disagree","notalk","FAIL",13697621,15243980,23836212
+"146","Silent Hill: Revelation 3D",2012,"ok","ok","PASS",20292771,17786836,48646439
+"147","Silver Linings Playbook",2012,"ok","ok","PASS",21307410,134026609,230644998
+"148","Sinister",2012,"men","men","FAIL",3043916,48790826,89012016
+"149","Skyfall",2012,"dubious-disagree","dubious","FAIL",202927713,308815675,1124923772
+"150","Snow White and the Huntsman",2012,"ok","ok","PASS",172488556,157407735,406779965
+"151","Sparkle",2012,"ok","ok","PASS",10146386,24754613,25021315
+"152","Spring Breakers",2012,"ok","ok","PASS",5073193,14331045,31118489
+"153","Step Up Revolution",2012,"ok","ok","PASS",33483073,35588120,167975738
+"154","Supporting Characters",2012,"men","men","FAIL",60878,4989,4989
+"155","Ted",2012,"men-disagree","men","FAIL",50731928,221866693,557487654
+"156","That&#39;s My Boy",2012,"notalk","notalk","FAIL",68488103,37471707,58908258
+"157","The Amazing Spider-Man",2012,"men-disagree","men","FAIL",223220484,265866416,768984693
+"158","The Avengers",2012,"notalk","notalk","FAIL",60878314,23727745,49296637
+"159","The Dark Knight Rises",2012,"notalk-disagree","notalk","FAIL",279025606,454699213,1095143990
+"160","The Devil Inside",2012,"ok-disagree","ok","PASS",1014639,54041622,103248087
+"161","The Dictator",2012,"notalk","notalk","FAIL",65951507,60523416,182005391
+"162","The Expendables 2",2012,"ok-disagree","ok","PASS",101463857,86272883,316546185
+"163","The Grey",2012,"nowomen-disagree","nowomen","FAIL",25365964,52335195,85574308
+"164","The Hobbit: An Unexpected Journey",2012,"nowomen-disagree","nowomen","FAIL",253659641,307439106,1029557373
+"165","The Hunger Games",2012,"ok-disagree","ok","PASS",81171085,413983383,694530947
+"166","The Impossible",2012,"men","men","FAIL",40585543,19298306,172073169
+"167","The Man with the Iron Fists",2012,"notalk","notalk","FAIL",15219578,15862951,22306925
+"168","The Master",2012,"notalk-disagree","notalk","FAIL",38048946,16484994,25484413
+"169","The Pirates! Band of Misfits",2012,"notalk","notalk","FAIL",55805121,31505670,124857587
+"170","The Place Beyond the Pines",2012,"notalk-disagree","notalk","FAIL",15219578,21716836,47699629
+"171","The Twilight Saga: Breaking Dawn - Part 2",2012,"dubious-disagree","dubious","FAIL",138193773,296603952,844848985
+"172","The Vow",2012,"ok","ok","PASS",8866236,126844056,200511006
+"173","The Watch",2012,"men","men","FAIL",55805121,34855879,68338951
+"174","The Woman in Black",2012,"notalk","notalk","FAIL",15219578,55128651,130843627
+"175","The Words",2012,"notalk","notalk","FAIL",6087831,11663106,12310182
+"176","Think Like a Man",2012,"ok","ok","PASS",12175663,92887325,97562697
+"177","To Rome With Love",2012,"men-disagree","men","FAIL",21814729,16928587,75452356
+"178","Total Recall",2012,"notalk-disagree","notalk","FAIL",126829821,59739858,201523449
+"179","Underworld: Awakening",2012,"ok","ok","PASS",71024700,63233330,162727662
+"180","Wanderlust",2012,"ok","ok","PASS",32975753,17541229,24513601
+"181","What to Expect When You&#39;re Expecting",2012,"ok","ok","PASS",38048946,41754612,81832836
+"182","Won&#39;t Back Down",2012,"ok","ok","PASS",19278133,5388293,5510995
+"183","Wrath of the Titans",2012,"notalk-disagree","notalk","FAIL",152195785,84894893,306390492
+"184","Wreck-It Ralph",2012,"ok-disagree","ok","PASS",167415363,192185407,480342759
+"185","Zero Dark Thirty",2012,"ok-disagree","ok","PASS",53268525,97121930,139736750
+"186","30 Minutes or Less",2011,"notalk","notalk","FAIL",28999342,38376408,42428850
+"187","50/50",2011,"men-disagree","men","FAIL",8285526,36265871,42810004
+"188","A Dangerous Method",2011,"dubious","dubious","FAIL",20713816,5905595,15336023
+"189","A Lonely Place to Die",2011,"ok","ok","PASS",4142763,NA,458345
+"190","A Very Harold &amp; Kumar 3D Christmas",2011,"notalk","notalk","FAIL",20713816,36312387,37560098
+"191","Another Earth",2011,"ok","ok","PASS",181246,1368348,1844766
+"192","Apollo 18",2011,"nowomen","nowomen","FAIL",5178454,18318189,27464261
+"193","Arthur Christmas",2011,"notalk","notalk","FAIL",88033717,48120751,152893489
+"194","Attack the Block",2011,"ok-disagree","ok","PASS",13463980,1060729,5599381
+"195","Bad Teacher",2011,"ok-disagree","ok","PASS",19678125,103872387,224136189
+"196","Battle: Los Angeles",2011,"notalk-disagree","notalk","FAIL",72498355,86534481,219571833
+"197","Beastly",2011,"notalk","notalk","FAIL",17606743,28860115,39385487
+"198","Blackthorn",2011,"notalk","notalk","FAIL",4660609,207716,1294370
+"199","Bridesmaids",2011,"ok-disagree","ok","PASS",33659951,175142277,299587165
+"200","Captain America: The First Avenger",2011,"notalk-disagree","notalk","FAIL",144996710,182959443,383795703
+"201","Cars 2",2011,"men","men","FAIL",207138157,198283907,580147769
+"202","Circumstance",2011,"ok","ok","PASS",932122,470329,470329
+"203","Colombiana",2011,"notalk","notalk","FAIL",41427631,37974487,74257040
+"204","Conan the Barbarian",2011,"dubious-disagree","dubious","FAIL",20713816,39629760,81937729
+"205","Contagion",2011,"ok-disagree","ok","PASS",62141447,78358394,142460919
+"206","Coriolanus",2011,"men","men","FAIL",10356908,776396,1087104
+"207","Cowboys &amp; Aliens",2011,"notalk","notalk","FAIL",168817598,103818215,182188693
+"208","Detention",2011,"ok","ok","PASS",10356908,NA,NA
+"209","Diary of a Wimpy Kid: Rodrick Rules",2011,"notalk","notalk","FAIL",18642434,54579387,76325433
+"210","Dolphin Tale",2011,"men","men","FAIL",38320559,74866751,99497492
+"211","Dream House",2011,"ok","ok","PASS",51784539,22062637,41357557
+"212","Drive",2011,"dubious-disagree","dubious","FAIL",15535362,36312033,80840663
+"213","Fast Five",2011,"ok-disagree","ok","PASS",129461348,217326947,652320815
+"214","Final Destination 5",2011,"men","men","FAIL",41427631,44107629,163522777
+"215","Footloose",2011,"ok","ok","PASS",24856579,53651623,65676025
+"216","Fright Night",2011,"dubious","dubious","FAIL",31070724,18951742,41966863
+"217","Green Lantern",2011,"notalk-disagree","notalk","FAIL",207138157,120762760,239452924
+"218","Hall Pass",2011,"men","men","FAIL",37284868,46668987,86680344
+"219","Hanna",2011,"ok","ok","PASS",31070724,41695999,67675862
+"220","Harry Potter and the Deathly Hallows: Part 2",2011,"notalk-disagree","notalk","FAIL",129461348,394609809,1375512553
+"221","Haywire",2011,"nowomen-disagree","nowomen","FAIL",23820888,19618465,22967676
+"222","Hesher",2011,"notalk","notalk","FAIL",7249836,396614,396614
+"223","Higher Ground",2011,"ok","ok","PASS",1864243,871074,889847
+"224","Hobo with a Shotgun",2011,"nowomen","nowomen","FAIL",3107072,728476,864753
+"225","Hop",2011,"men","men","FAIL",65248520,111942955,191524428
+"226","Horrible Bosses",2011,"ok","ok","PASS",36249178,121733603,222195609
+"227","Hugo",2011,"dubious","dubious","FAIL",186424342,76500789,191637196
+"228","I Am Number Four",2011,"notalk","notalk","FAIL",51784539,57067015,151193038
+"229","Immortals",2011,"men","men","FAIL",77676809,86484341,219113265
+"230","In Time",2011,"notalk","notalk","FAIL",36249178,38894261,176134406
+"231","Iris",2011,"ok","ok","PASS",5696299,5779651,15695916
+"232","Jin ling shi san chai",2011,"ok","ok","PASS",103569079,322549,97066426
+"233","Johnny English Reborn",2011,"dubious","dubious","FAIL",46606085,8602417,170412210
+"234","Jumping the Broom",2011,"ok","ok","PASS",7249836,38626496,39520511
+"235","Just Go with It",2011,"dubious","dubious","FAIL",82855263,106705263,222647578
+"236","Kill List",2011,"dubious","dubious","FAIL",828553,30100,478703
+"237","Killer Elite",2011,"nowomen","nowomen","FAIL",72498355,26021717,59839216
+"238","Kung Fu Panda 2",2011,"ok","ok","PASS",155353618,171146932,688566122
+"239","Le Havre",2011,"dubious","dubious","FAIL",5696299,633541,13961315
+"240","Like Crazy",2011,"ok-disagree","ok","PASS",258923,3516575,3864669
+"241","Limitless",2011,"notalk","notalk","FAIL",27963651,82077930,175797590
+"242","Margaret",2011,"ok","ok","PASS",14499671,48869,48869
+"243","Margin Call",2011,"notalk-disagree","notalk","FAIL",3521349,5544660,18510079
+"244","Mars Needs Moms",2011,"dubious","dubious","FAIL",155353618,22156282,40961320
+"245","Martha Marcy May Marlene",2011,"ok","ok","PASS",1035691,3087434,3657064
+"246","Melancholia",2011,"ok","ok","PASS",9735493,3139021,18688080
+"247","Midnight in Paris",2011,"ok","ok","PASS",31070724,58844493,160342190
+"248","Mission: Impossible - Ghost Protocol",2011,"notalk-disagree","notalk","FAIL",150175164,216871479,719508092
+"249","Moneyball",2011,"notalk","notalk","FAIL",51784539,78303911,115142275
+"250","Mr. Popper&#39;s Penguins",2011,"notalk","notalk","FAIL",56962993,70659436,196392298
+"251","New Year&#39;s Eve",2011,"ok","ok","PASS",26927960,56491379,148791377
+"252","No Strings Attached",2011,"ok","ok","PASS",25892270,73184210,154554145
+"253","October Baby",2011,"ok","ok","PASS",1035691,5547001,5547001
+"254","Our Idiot Brother",2011,"ok","ok","PASS",5178454,25700491,26784257
+"255","Paranormal Activity 3",2011,"ok","ok","PASS",5178454,107741677,214429259
+"256","Paul",2011,"ok","ok","PASS",41427631,38748242,103755310
+"257","Pirates of the Caribbean: On Stranger Tides",2011,"notalk","notalk","FAIL",258922697,249667634,1080913060
+"258","Priest",2011,"notalk-disagree","notalk","FAIL",62141447,30176535,87157549
+"259","Puss in Boots",2011,"notalk","notalk","FAIL",134639802,154587729,574795417
+"260","Rango",2011,"notalk-disagree","notalk","FAIL",139818256,127656741,254266825
+"261","Real Steel",2011,"notalk","notalk","FAIL",113925987,88513562,303703179
+"262","Red Riding Hood",2011,"ok","ok","PASS",43499013,39006354,93523336
+"263","Red State",2011,"ok","ok","PASS",4142763,1103455,1103455
+"264","Restless",2011,"ok","ok","PASS",8285526,169597,2918985
+"265","Rio",2011,"notalk","notalk","FAIL",93212171,148745713,504919774
+"266","Rise of the Planet of the Apes",2011,"notalk","notalk","FAIL",96319243,183068895,500093845
+"267","Shame",2011,"notalk","notalk","FAIL",6731990,4145138,11166495
+"268","Snow Flower and the Secret Fan",2011,"ok","ok","PASS",6214145,1396324,11753231
+"269","Soul Surfer",2011,"ok","ok","PASS",18642434,45418587,48841781
+"270","Source Code",2011,"notalk-disagree","notalk","FAIL",33142105,56664949,145440503
+"271","Straw Dogs",2011,"ok","ok","PASS",25892270,10692928,11655479
+"272","Sucker Punch",2011,"ok-disagree","ok","PASS",77676809,37691379,92961937
+"273","Super 8",2011,"ok-disagree","ok","PASS",51784539,131537058,269379017
+"274","Take Shelter",2011,"ok","ok","PASS",4919531,1790661,3240628
+"275","The Adjustment Bureau",2011,"dubious-disagree","dubious","FAIL",51991677,64726164,132354553
+"276","The Adventures of Tintin",2011,"notalk","notalk","FAIL",134639802,80361144,387342089
+"277","The Artist",2011,"notalk-disagree","notalk","FAIL",16571053,46261299,132834295
+"278","The Best Exotic Marigold Hotel",2011,"ok","ok","PASS",10356908,48039108,139537943
+"279","The Cabin in the Woods",2011,"dubious-disagree","dubious","FAIL",31070724,43574905,73293915
+"280","The Darkest Hour",2011,"ok","ok","PASS",36042039,22208829,65074228
+"281","The Divide",2011,"ok","ok","PASS",3107072,18642,18642
+"282","The Future",2011,"ok","ok","PASS",1035691,588958,588958
+"283","The Girl with the Dragon Tattoo",2011,"notalk-disagree","notalk","FAIL",93212171,106174662,241492267
+"284","The Green Hornet",2011,"notalk","notalk","FAIL",113925987,102305579,236120048
+"285","The Guard",2011,"notalk","notalk","FAIL",6214145,5551069,16513705
+"286","The Help",2011,"ok","ok","PASS",25892270,175762513,220726425
+"287","The Iron Lady",2011,"ok","ok","PASS",14499671,31028712,119717677
+"288","The Lincoln Lawyer",2011,"notalk","notalk","FAIL",41427631,60079594,90255363
+"289","The Mechanic",2011,"nowomen","nowomen","FAIL",44016858,30160867,79072292
+"290","The Muppets",2011,"notalk-disagree","notalk","FAIL",46606085,91789051,166717137
+"291","The Rite",2011,"dubious-disagree","dubious","FAIL",38320559,34227129,99475649
+"292","The Roommate",2011,"ok","ok","PASS",16571053,38631377,41942847
+"293","The Smurfs",2011,"ok","ok","PASS",113925987,147704169,583162839
+"294","The Three Musketeers",2011,"men","men","FAIL",93212171,21105217,144870266
+"295","The Tree of Life",2011,"nowomen-disagree","nowomen","FAIL",36249178,13780555,64529403
+"296","The Twilight Saga: Breaking Dawn - Part 1",2011,"ok","ok","PASS",132050575,291326492,735276926
+"297","Thor",2011,"ok-disagree","ok","PASS",155353618,187491749,465363438
+"298","Tinker Tailor Soldier Spy",2011,"notalk","notalk","FAIL",21749507,25011304,84359926
+"299","Tower Heist",2011,"notalk","notalk","FAIL",88033717,80832113,158947830
+"300","Transformers: Dark of the Moon",2011,"ok-disagree","ok","PASS",201959703,364967639,1163903170
+"301","War Horse",2011,"notalk-disagree","notalk","FAIL",72498355,82734459,162412399
+"302","Warrior",2011,"notalk","notalk","FAIL",25892270,14144548,25079651
+"303","We Bought a Zoo",2011,"men-disagree","men","FAIL",51784539,78323650,123169061
+"304","Weekend",2011,"notalk","notalk","FAIL",196781,501887,1633890
+"305","What&#39;s Your Number",2011,"ok","ok","PASS",20713816,14511151,31807187
+"306","Winnie the Pooh",2011,"nowomen","nowomen","FAIL",31070724,27645535,51935343
+"307","X-Men: First Class",2011,"ok-disagree","ok","PASS",165710526,151633733,368093107
+"308","Young Adult",2011,"ok","ok","PASS",12428289,16893744,23562334
+"309","Your Sister&#39;s Sister",2011,"ok","ok","PASS",124283,1654502,3200899
+"310","127 Hours",2010,"dubious-disagree","dubious","FAIL",19228173,19586277,64879307
+"311","Alice in Wonderland",2010,"ok","ok","PASS",213646368,356993585,1094287202
+"312","Animal Kingdom",2010,"notalk","notalk","FAIL",4486574,1115276,8629906
+"313","Another Year",2010,"ok","ok","PASS",8545855,3424437,19768384
+"314","Barney&#39;s Version",2010,"ok","ok","PASS",32046955,8014473,9449125
+"315","Beginners",2010,"notalk","notalk","FAIL",3418342,6186017,12353318
+"316","Biutiful",2010,"notalk","notalk","FAIL",37388114,5449304,26813941
+"317","Black Swan",2010,"ok-disagree","ok","PASS",13887014,114252393,353869648
+"318","Blue Valentine",2010,"men-disagree","men","FAIL",1068232,10402326,17696585
+"319","Burlesque",2010,"ok","ok","PASS",58752751,42131764,95774887
+"320","Casino Jack",2010,"notalk-disagree","notalk","FAIL",13352898,2179053,2222851
+"321","Centurion",2010,"notalk","notalk","FAIL",16023478,132001,7075508
+"322","Charlie St. Cloud",2010,"notalk-disagree","notalk","FAIL",47002201,33335524,51785833
+"323","Clash of the Titans",2010,"dubious","dubious","FAIL",133528980,174351340,526867848
+"324","Conviction",2010,"ok","ok","PASS",13352898,7261515,10824983
+"325","Cop Out",2010,"notalk","notalk","FAIL",39524578,47937418,59724746
+"326","Country Strong",2010,"ok","ok","PASS",16023478,21598495,21953741
+"327","Cyrus",2010,"notalk","notalk","FAIL",7477623,7978555,10724926
+"328","Date Night",2010,"ok","ok","PASS",58752751,105446665,162658630
+"329","Dear John",2010,"nowomen","nowomen","FAIL",26705796,85474402,118960872
+"330","Despicable Me",2010,"ok-disagree","ok","PASS",73707997,268675247,580578700
+"331","Devil",2010,"ok-disagree","ok","PASS",10682318,35977680,67676882
+"332","Diary of a Wimpy Kid",2010,"ok","ok","PASS",16023478,68370710,82205045
+"333","Dinner for Schmucks",2010,"notalk","notalk","FAIL",73707997,78009058,92718787
+"334","Don&#39;t Be Afraid of the Dark",2010,"ok","ok","PASS",26705796,25687431,33703834
+"335","Due Date",2010,"notalk","notalk","FAIL",69435070,107399007,226186388
+"336","Dylan Dog: Dead of Night",2010,"nowomen","nowomen","FAIL",21364637,1267498,6506276
+"337","Easy A",2010,"ok-disagree","ok","PASS",8545855,62386303,81400037
+"338","Eat, Pray, Love",2010,"ok-disagree","ok","PASS",64093910,86071723,219892171
+"339","Edge of Darkness",2010,"notalk","notalk","FAIL",64093910,46269276,86749716
+"340","Everything Must Go",2010,"notalk","notalk","FAIL",5341159,2897185,2897185
+"341","Fair Game",2010,"ok","ok","PASS",53411592,12281992,27878177
+"342","Faster",2010,"nowomen","nowomen","FAIL",12818782,24825729,38091703
+"343","For Colored Girls",2010,"ok","ok","PASS",22432869,40304065,40611902
+"344","Frozen",2010,"notalk","notalk","FAIL",160234776,419868647,1073092418
+"345","Get Him To The Greek",2010,"notalk","notalk","FAIL",42729274,65326144,97696078
+"346","Going the Distance",2010,"ok","ok","PASS",34183419,19019119,42718768
+"347","Green Zone",2010,"nowomen-disagree","nowomen","FAIL",106823184,37919386,104177195
+"348","Grown Ups",2010,"ok-disagree","ok","PASS",80117388,173054825,290797736
+"349","Gunless",2010,"men","men","FAIL",10575495,489308,489308
+"350","Harry Potter and the Deathly Hallows: Part 1",2010,"ok-disagree","ok","PASS",133528980,316178791,1021656625
+"351","Hot Tub Time Machine",2010,"notalk","notalk","FAIL",38456346,53699864,67522890
+"352","How to Train Your Dragon",2010,"ok","ok","PASS",176258254,232427199,528636950
+"353","I Am Love",2010,"ok","ok","PASS",10682318,5346997,16164710
+"354","Inception",2010,"dubious-disagree","dubious","FAIL",170917095,312539208,889393184
+"355","Insidious",2010,"ok-disagree","ok","PASS",1602348,57694294,106685260
+"356","Iron Man 2",2010,"ok","ok","PASS",181599413,333751233,666108069
+"357","It&#39;s Kind of a Funny Story",2010,"notalk","notalk","FAIL",8545855,6797830,7080589
+"358","Kick-Ass",2010,"notalk-disagree","notalk","FAIL",29910492,51351297,104182018
+"359","Knight and Day",2010,"men-disagree","men","FAIL",124983125,81637519,280028482
+"360","Legion",2010,"ok","ok","PASS",27774028,42908822,73552139
+"361","Let Me In",2010,"notalk-disagree","notalk","FAIL",21364637,12962924,30199340
+"362","Letters to Juliet",2010,"dubious-disagree","dubious","FAIL",32046955,56650955,84535576
+"363","Love and Other Drugs",2010,"men-disagree","men","FAIL",32046955,34575465,109728398
+"364","Machete",2010,"ok","ok","PASS",13352898,28408179,47356808
+"365","Made In Dagenham",2010,"ok","ok","PASS",8545855,1170108,16711628
+"366","Meek&#39;s Cutoff",2010,"men","men","FAIL",2136464,1044487,1997517
+"367","Megamind",2010,"nowomen-disagree","nowomen","FAIL",138870139,158542540,343850165
+"368","Monsters",2010,"nowomen-disagree","nowomen","FAIL",534116,253492,6024539
+"369","Morning Glory",2010,"ok","ok","PASS",42729274,33127720,64137680
+"370","Nanny McPhee and the Big Bang",2010,"ok","ok","PASS",37388114,31189851,104472930
+"371","Never Let Me Go",2010,"ok","ok","PASS",16023478,2600773,12294827
+"372","Paranormal Activity 2",2010,"ok","ok","PASS",3204696,90535754,189624005
+"373","Percy Jackson &amp; the Olympians: The Lightning Thief",2010,"dubious-disagree","dubious","FAIL",101482025,94825128,241919399
+"374","Please Give",2010,"ok","ok","PASS",3204696,4308792,4882010
+"375","Predators",2010,"nowomen","nowomen","FAIL",42729274,55548791,135915826
+"376","Prince of Persia: The Sands of Time",2010,"nowomen","nowomen","FAIL",213646368,96952376,357921415
+"377","Rabbit Hole",2010,"ok","ok","PASS",5341159,2381151,6238038
+"378","Ramona and Beezus",2010,"ok","ok","PASS",16023478,27952425,29343924
+"379","Red",2010,"men-disagree","men","FAIL",64093910,96546967,209843135
+"380","Remember Me",2010,"ok","ok","PASS",17091709,20369301,60361637
+"381","Repo Men",2010,"ok","ok","PASS",34183419,14893296,19436733
+"382","Robin Hood",2010,"dubious-disagree","dubious","FAIL",224328687,112684730,344460978
+"383","Salt",2010,"ok-disagree","ok","PASS",138870139,126383971,315890541
+"384","Scott Pilgrim vs. the World",2010,"ok","ok","PASS",90799707,33768214,51371013
+"385","Secretariat",2010,"ok","ok","PASS",37388114,63772921,64495830
+"386","Sex and the city 2",2010,"ok","ok","PASS",101482025,101853441,314787390
+"387","Shrek Forever After",2010,"notalk","notalk","FAIL",176258254,255026238,807844640
+"388","Shutter Island",2010,"notalk","notalk","FAIL",85458547,136747492,317084404
+"389","Skyline",2010,"dubious","dubious","FAIL",10682318,22877632,84062765
+"390","Somewhere",2010,"dubious-disagree","dubious","FAIL",7477623,1907483,15367204
+"391","Submarine",2010,"notalk","notalk","FAIL",2029641,499507,4894571
+"392","Super",2010,"notalk","notalk","FAIL",2670580,350077,553731
+"393","Takers",2010,"notalk","notalk","FAIL",34183419,61684749,75403567
+"394","Tangled",2010,"ok","ok","PASS",277740279,214524387,626605502
+"395","The A-Team",2010,"nowomen-disagree","nowomen","FAIL",117505503,82491105,189334662
+"396","The Back-up Plan",2010,"ok","ok","PASS",37388114,40048019,80417752
+"397","The Chronicles of Narnia: The Voyage of the Dawn Treader",2010,"ok-disagree","ok","PASS",165575935,111509464,446720616
+"398","The Conspirator",2010,"dubious","dubious","FAIL",26705796,12325477,16992803
+"399","The Crazies",2010,"ok","ok","PASS",20296405,41793064,58705899
+"400","The Debt",2010,"ok","ok","PASS",21364637,33304850,49783934
+"401","The Expendables",2010,"notalk","notalk","FAIL",87595011,110101079,286572606
+"402","The Fighter",2010,"men","men","FAIL",11750550,100004670,138082199
+"403","The Ghost Writer",2010,"men","men","FAIL",48070433,16601978,70003894
+"404","The Illusionist",2010,"nowomen","nowomen","FAIL",17625825,42588953,89509349
+"405","The Karate Kid",2010,"dubious-disagree","dubious","FAIL",42729274,188640789,383593100
+"406","The Kids Are All Right",2010,"ok","ok","PASS",4272927,22231363,38750611
+"407","The Killer Inside Me",2010,"notalk","notalk","FAIL",13887014,232102,3864090
+"408","The King&#39;s Speech",2010,"ok-disagree","ok","PASS",16023478,148267855,460216888
+"409","The Last Airbender",2010,"notalk-disagree","notalk","FAIL",160234776,140763246,341528548
+"410","The Last Exorcism",2010,"ok","ok","PASS",1922817,43834199,74953449
+"411","The Losers",2010,"notalk","notalk","FAIL",26705796,25201119,28536765
+"412","The Next Three Days",2010,"ok","ok","PASS",32046955,22591662,71844911
+"413","The Other Guys",2010,"nowomen-disagree","nowomen","FAIL",106823184,127354577,182599780
+"414","The Runaways",2010,"ok","ok","PASS",10148202,3817511,5638803
+"415","The Social Network",2010,"notalk-disagree","notalk","FAIL",42729274,103578637,240268986
+"416","The Sorcerer&#39;s Apprentice",2010,"notalk","notalk","FAIL",170917095,67459899,229831139
+"417","The Spy Next Door",2010,"ok","ok","PASS",29910492,25965625,54462053
+"418","The Switch",2010,"men","men","FAIL",20296405,29652476,53260400
+"419","The Tempest",2010,"ok","ok","PASS",21364637,296908,296908
+"420","The Tourist",2010,"nowomen","nowomen","FAIL",106823184,72245755,297749724
+"421","The Town",2010,"notalk","notalk","FAIL",39524578,98476300,162976800
+"422","The Twilight Saga: Eclipse",2010,"ok-disagree","ok","PASS",72639765,321037586,747325041
+"423","The Wolfman",2010,"notalk-disagree","notalk","FAIL",160234776,66433214,152366563
+"424","Tiny Furniture",2010,"ok","ok","PASS",53412,418399,453089
+"425","Toy Story 3",2010,"dubious-disagree","dubious","FAIL",213646368,443321427,1136341723
+"426","Tron Legacy",2010,"notalk-disagree","notalk","FAIL",213646368,183802922,424689202
+"427","True Grit",2010,"ok-disagree","ok","PASS",37388114,182927231,269490247
+"428","Tucker and Dale vs Evil",2010,"ok","ok","PASS",5341159,239111,5850485
+"429","Unstoppable",2010,"dubious","dubious","FAIL",101482025,87128132,181077698
+"430","Valentine&#39;s Day",2010,"ok","ok","PASS",55548056,118024294,232414484
+"431","Wall Street: Money Never Sleeps",2010,"dubious-disagree","dubious","FAIL",74776229,56055056,146808831
+"432","Welcome to the Rileys",2010,"ok","ok","PASS",10682318,163287,334204
+"433","Wild Target",2010,"notalk","notalk","FAIL",8545855,116798,116798
+"434","Winter&#39;s Bone",2010,"ok-disagree","ok","PASS",2136464,6977159,17232238
+"435","Womb",2010,"ok","ok","PASS",13887014,NA,NA
+"436","Yogi Bear",2010,"nowomen","nowomen","FAIL",85458547,107085981,216086548
+"437","You Again",2010,"ok","ok","PASS",21364637,27455751,35079607
+"438","You Will Meet a Tall Dark Stranger",2010,"ok","ok","PASS",16023478,3469420,36584608
+"439","(500) Days of Summer",2009,"notalk-disagree","notalk","FAIL",8142987,35168338,66015966
+"440","17 Again",2009,"ok-disagree","ok","PASS",43429264,69668214,151432312
+"441","2012",2009,"notalk-disagree","notalk","FAIL",217146319,180353228,856000062
+"442","9",2009,"nowomen","nowomen","FAIL",32571948,34471863,52723125
+"443","A Perfect Getaway",2009,"dubious-disagree","dubious","FAIL",15200242,16845625,24771466
+"444","A Serious Man",2009,"men","men","FAIL",7600121,10019987,32963430
+"445","A Single Man",2009,"notalk","notalk","FAIL",7600121,9962673,30555070
+"446","Adam",2009,"men","men","FAIL",3474341,2472641,3071090
+"447","Adventureland",2009,"men-disagree","men","FAIL",10640170,17419505,18613810
+"448","Agora",2009,"notalk","notalk","FAIL",76001212,672527,42335163
+"449","Ajami",2009,"men-disagree","men","FAIL",1085732,675172,675172
+"450","All About Steve",2009,"ok","ok","PASS",16285974,36766024,43567433
+"451","An Education",2009,"ok","ok","PASS",8142987,13652981,32194912
+"452","Angels &amp; Demons",2009,"nowomen","nowomen","FAIL",162859739,144810370,532959416
+"453","Armored",2009,"nowomen","nowomen","FAIL",21714632,17359628,25689537
+"454","Astro Boy",2009,"dubious","dubious","FAIL",70572554,21227211,47873178
+"455","Avatar",2009,"men-disagree","men","FAIL",461435929,825707158,3022588801
+"456","Away We Go",2009,"ok","ok","PASS",22800364,10262276,10974592
+"457","Br&uuml;no",2009,"nowomen-disagree","nowomen","FAIL",45600727,65203101,142000928
+"458","Bride Wars",2009,"ok","ok","PASS",32571948,63749284,125022454
+"459","Bright Star",2009,"ok","ok","PASS",9228719,4825683,18740466
+"460","Brooklyn&#39;s Finest",2009,"notalk","notalk","FAIL",18457437,29492371,42596761
+"461","Brothers",2009,"ok","ok","PASS",28229022,30991293,48905553
+"462","Capitalism: A Love Story",2009,"notalk-disagree","notalk","FAIL",21714632,15594794,20760850
+"463","Case 39",2009,"ok","ok","PASS",29314753,14398811,31814980
+"464","Chloe",2009,"men-disagree","men","FAIL",14114511,3338902,10504640
+"465","Cloudy with a Chance of Meatballs",2009,"notalk-disagree","notalk","FAIL",108573160,135575603,257131292
+"466","Coco avant Chanel",2009,"ok","ok","PASS",24971827,6637983,55170185
+"467","Coraline",2009,"ok","ok","PASS",65143896,81740638,136842415
+"468","Daybreakers",2009,"notalk","notalk","FAIL",21714632,32682233,55808316
+"469","Dead Snow",2009,"men-disagree","men","FAIL",868585,50749,2382117
+"470","District 9",2009,"notalk-disagree","notalk","FAIL",32571948,125560771,233645777
+"471","Drag Me to Hell",2009,"ok","ok","PASS",32571948,45709979,99223368
+"472","Enter the Void",2009,"notalk","notalk","FAIL",17371706,366974,366974
+"473","Everybody&#39;s Fine",2009,"men","men","FAIL",21714632,9998368,9998368
+"474","Fantastic Mr. Fox",2009,"notalk","notalk","FAIL",43429264,22803533,50485349
+"475","Fast &amp; Furious",2009,"notalk","notalk","FAIL",92287186,168358172,394190344
+"476","Fired Up!",2009,"notalk","notalk","FAIL",21714632,18708557,20203912
+"477","Fish Tank",2009,"ok","ok","PASS",3257195,406796,6430020
+"478","Friday the 13th",2009,"men","men","FAIL",18457437,70574746,99562425
+"479","Funny People",2009,"notalk","notalk","FAIL",78715541,56300661,78042718
+"480","G-Force",2009,"notalk","notalk","FAIL",162859739,129676275,312028062
+"481","G.I. Joe: The Rise of Cobra",2009,"notalk-disagree","notalk","FAIL",190003029,163078512,328400169
+"482","Gamer",2009,"notalk","notalk","FAIL",54286580,22295397,38068663
+"483","Get Low",2009,"notalk-disagree","notalk","FAIL",7600121,9963686,10528267
+"484","Harry Brown",2009,"notalk","notalk","FAIL",7925841,1974599,6833747
+"485","Harry Potter and the Half-Blood Prince",2009,"ok-disagree","ok","PASS",271432899,327846641,1014525504
+"486","He&#39;s Just Not That Into You",2009,"ok","ok","PASS",43429264,102008450,193683923
+"487","I Come with the Rain",2009,"nowomen","nowomen","FAIL",19543169,NA,681212
+"488","I Love You Phillip Morris",2009,"notalk-disagree","notalk","FAIL",14114511,2212134,16443063
+"489","I Love You, Man",2009,"men-disagree","men","FAIL",43429264,77564677,99593620
+"490","Ice Age: Dawn of the Dinosaurs",2009,"notalk","notalk","FAIL",97715844,213426283,963009937
+"491","Inglourious Basterds",2009,"dubious-disagree","dubious","FAIL",76001212,131190089,344146212
+"492","Invictus",2009,"notalk","notalk","FAIL",53200848,40705558,135164207
+"493","It&#39;s Complicated",2009,"ok","ok","PASS",92287186,122400359,243871325
+"494","Jennifer&#39;s Body",2009,"ok","ok","PASS",17371706,17594056,35646920
+"495","Julie &amp; Julia",2009,"ok","ok","PASS",43429264,102194949,137503693
+"496","Knowing",2009,"notalk","notalk","FAIL",54286580,86812530,203964063
+"497","Law Abiding Citizen",2009,"notalk-disagree","notalk","FAIL",57543775,79646802,142404318
+"498","Life During Wartime",2009,"ok","ok","PASS",4885792,305576,305576
+"499","Micmacs (Micmacs &agrave; tire-larigot)",2009,"dubious","dubious","FAIL",45600727,1367688,12764862
+"500","Monsters vs Aliens",2009,"dubious-disagree","dubious","FAIL",190003029,215356519,414410048
+"501","Moon",2009,"notalk-disagree","notalk","FAIL",5428658,5439692,11591350
+"502","Mother and Child",2009,"ok","ok","PASS",7600121,1205715,5440068
+"503","My Bloody Valentine 3D",2009,"men","men","FAIL",15200242,55965069,111564348
+"504","My Sister&#39;s Keeper",2009,"ok","ok","PASS",29857619,53418244,104960933
+"505","Nine",2009,"men-disagree","men","FAIL",86858528,21363903,58096258
+"506","Ninja Assassin",2009,"notalk-disagree","notalk","FAIL",54286580,41391219,66905911
+"507","Nowhere Boy",2009,"dubious","dubious","FAIL",2062890,1569280,8452669
+"508","Ondine",2009,"ok","ok","PASS",13028779,597665,597665
+"509","Paa",2009,"men","men","FAIL",4668646,216308,10630704
+"510","Pandorum",2009,"notalk","notalk","FAIL",43429264,11216534,18493734
+"511","Perrier&#39;s Bounty",2009,"nowomen","nowomen","FAIL",7165829,899,899
+"512","Planet 51",2009,"notalk","notalk","FAIL",65143896,45811424,118340524
+"513","Precious: Based on the Novel Push by Sapphire",2009,"ok","ok","PASS",10857316,51644478,74614567
+"514","Public Enemies",2009,"notalk","notalk","FAIL",111287489,105429554,228416195
+"515","Push",2009,"ok","ok","PASS",41257801,34538780,48218998
+"516","Sherlock Holmes",2009,"notalk","notalk","FAIL",97715844,226949041,541170116
+"517","Splice",2009,"ok","ok","PASS",32571948,18468479,24386618
+"518","Star Trek",2009,"ok-disagree","ok","PASS",152002424,279825625,418745446
+"519","State of Play",2009,"ok","ok","PASS",65143896,40191563,99285148
+"520","Surrogates",2009,"notalk","notalk","FAIL",86858528,41885106,129927709
+"521","Terminator Salvation",2009,"men-disagree","men","FAIL",217146319,136066564,403488847
+"522","The Blind Side",2009,"men","men","FAIL",38000606,277903289,331914441
+"523","The Boat That Rocked",2009,"nowomen-disagree","nowomen","FAIL",54286580,8704817,40685241
+"524","The Boondock Saints II: All Saints Day",2009,"nowomen","nowomen","FAIL",8685853,11153924,11153924
+"525","The Box",2009,"ok","ok","PASS",27143290,16342407,28600229
+"526","The City of Your Final Destination",2009,"ok-disagree","ok","PASS",9011572,535587,1469316
+"527","The Final Destination",2009,"ok","ok","PASS",43429264,72176939,203449410
+"528","The Fourth Kind",2009,"ok","ok","PASS",10857316,28465896,53729463
+"529","The Girl with the Dragon Tattoo",2009,"dubious-disagree","dubious","FAIL",97715844,111304636,253160295
+"530","The Girlfriend Experience",2009,"dubious","dubious","FAIL",1411451,755495,1092072
+"531","The Good Guy",2009,"ok","ok","PASS",10857316,109320,109320
+"532","The Hangover",2009,"notalk","notalk","FAIL",38000606,301097804,509809040
+"533","The Imaginarium of Doctor Parnassus",2009,"notalk","notalk","FAIL",32571948,8348849,69869659
+"534","The Informant!",2009,"notalk","notalk","FAIL",23886095,36173125,45352277
+"535","The Invention of Lying",2009,"men","men","FAIL",20086035,20033106,35480909
+"536","The Last Station",2009,"ok","ok","PASS",19543169,7185227,17041802
+"537","The Lovely Bones",2009,"ok","ok","PASS",103144502,47896216,103029901
+"538","The Men Who Stare at Goats",2009,"nowomen","nowomen","FAIL",26057558,35208316,73122088
+"539","The Messenger",2009,"notalk","notalk","FAIL",7057255,1204793,1530512
+"540","The Princess and the Frog",2009,"ok","ok","PASS",114001818,113351355,294230416
+"541","The Proposal",2009,"men-disagree","men","FAIL",43429264,178014415,341690283
+"542","The Road",2009,"notalk-disagree","notalk","FAIL",27143290,8809919,29981685
+"543","The Secret of Kells",2009,"nowomen-disagree","nowomen","FAIL",8685853,749470,2823897
+"544","The Soloist",2009,"notalk","notalk","FAIL",65143896,34439578,41750888
+"545","The Taking of Pelham 123",2009,"nowomen","nowomen","FAIL",119430476,71063643,165426811
+"546","The Time Traveler&#39;s Wife",2009,"dubious","dubious","FAIL",42343532,68851502,107125483
+"547","The Ugly Truth",2009,"men","men","FAIL",41257801,96538057,222824741
+"548","The Unborn",2009,"ok","ok","PASS",17371706,46328612,84913778
+"549","The Young Victoria",2009,"ok","ok","PASS",38000606,11944429,34611919
+"550","Transformers: Revenge of the Fallen",2009,"ok-disagree","ok","PASS",228003635,436585563,908235868
+"551","Up",2009,"notalk","notalk","FAIL",190003029,318123879,794258938
+"552","Up in the Air",2009,"men-disagree","men","FAIL",32571948,91009693,181146433
+"553","Veronika Decides to Die",2009,"ok","ok","PASS",9771584,NA,NA
+"554","Watchmen",2009,"men-disagree","men","FAIL",149830960,116726786,199848831
+"555","Whatever Works",2009,"dubious-disagree","dubious","FAIL",16285974,5761658,38116460
+"556","Where the Wild Things Are",2009,"notalk","notalk","FAIL",108573160,83854815,107621685
+"557","Whip It",2009,"ok","ok","PASS",16285974,14161591,20472719
+"558","Whiteout",2009,"ok","ok","PASS",38000606,11156585,13305365
+"559","X-Men Origins: Wolverine",2009,"dubious-disagree","dubious","FAIL",162859739,195304827,406960171
+"560","Yesterday Was a Lie",2009,"ok","ok","PASS",217146,NA,NA
+"561","Youth in Revolt",2009,"notalk-disagree","notalk","FAIL",19543169,16596046,21373265
+"562","Zombieland",2009,"ok-disagree","ok","PASS",25623266,82070762,111001503
+"563","21",2008,"ok","ok","PASS",37878971,87835235,170836899
+"564","Appaloosa",2008,"notalk","notalk","FAIL",21645126,21873909,30016892
+"565","Australia",2008,"men","men","FAIL",140693320,53630131,232772564
+"566","Baby Mama",2008,"ok","ok","PASS",32467689,65470243,69688090
+"567","Be Kind Rewind",2008,"notalk","notalk","FAIL",21645126,12094392,33435494
+"568","Bedtime Stories",2008,"ok","ok","PASS",86580505,119158557,236319281
+"569","Blindness",2008,"ok","ok","PASS",27056408,3326198,21702440
+"570","Bolt",2008,"ok-disagree","ok","PASS",162338447,123435400,339778437
+"571","Burn After Reading",2008,"notalk","notalk","FAIL",40043484,65319955,176857711
+"572","Changeling",2008,"ok","ok","PASS",59524097,38679626,123166807
+"573","Che: Part One",2008,"notalk","notalk","FAIL",62770866,317867,32595998
+"574","City of Ember",2008,"ok","ok","PASS",41125740,8519189,12789087
+"575","Cloverfield",2008,"ok","ok","PASS",27056408,86632922,184810452
+"576","Day of the Dead",2008,"ok","ok","PASS",19480614,NA,NA
+"577","Death Race",2008,"notalk","notalk","FAIL",70346660,39303255,78481785
+"578","Defiance",2008,"ok","ok","PASS",54112816,31001030,45745616
+"579","Definitely, Maybe",2008,"ok","ok","PASS",7575794,34893728,60458935
+"580","Doomsday",2008,"ok","ok","PASS",35714458,11914311,23399667
+"581","Doubt",2008,"ok","ok","PASS",21645126,36197653,55137666
+"582","Eagle Eye",2008,"notalk-disagree","notalk","FAIL",86580505,109784884,192713668
+"583","Easy Virtue",2008,"ok","ok","PASS",15151588,2875321,13697884
+"584","Fireproof",2008,"men","men","FAIL",541128,36208310,36226687
+"585","Fly Me to the Moon",2008,"nowomen","nowomen","FAIL",27056408,15740274,62280329
+"586","Forgetting Sarah Marshall",2008,"ok","ok","PASS",32467689,68368797,113824188
+"587","Four Christmases",2008,"ok","ok","PASS",86580505,130028810,176998734
+"588","Frost/Nixon",2008,"notalk","notalk","FAIL",31385433,20153811,30459656
+"589","Frozen River",2008,"ok","ok","PASS",1082256,2718061,6526145
+"590","Gake no ue no Ponyo",2008,"ok","ok","PASS",36796715,16331680,222200929
+"591","Ghost Town",2008,"notalk","notalk","FAIL",21645126,14342754,28801384
+"592","Gran Torino",2008,"men-disagree","men","FAIL",27056408,160277075,297125986
+"593","Hamlet 2",2008,"ok","ok","PASS",9740307,5288138,5301200
+"594","Hancock",2008,"nowomen","nowomen","FAIL",162338447,246696294,675702695
+"595","Herb &amp; Dorothy",2008,"ok","ok","PASS",89286146,82236872,173580993
+"596","High School Musical 3: Senior Year",2008,"ok","ok","PASS",11904819,98008500,296963426
+"597","Igor",2008,"men","men","FAIL",32467689,21134953,33564393
+"598","In Bruges",2008,"notalk","notalk","FAIL",16233845,8442492,37374405
+"599","Indiana Jones and the Kingdom of the Crystal Skull",2008,"notalk","notalk","FAIL",200217418,343101064,851257517
+"600","Inkheart",2008,"ok","ok","PASS",64935379,18726740,62826552
+"601","Iron Man",2008,"men-disagree","men","FAIL",201299674,344811326,630352749
+"602","Journey to the Center of the Earth",2008,"notalk","notalk","FAIL",48701534,110070196,260720275
+"603","Jumper",2008,"notalk","notalk","FAIL",89286146,87844867,241465674
+"604","Kung Fu Panda",2008,"notalk-disagree","notalk","FAIL",140693320,233155446,683889160
+"605","L&aring;t den r&auml;tte komma in (Let the Right One In)",2008,"notalk-disagree","notalk","FAIL",4870153,2296640,13255131
+"606","Made of Honor",2008,"men","men","FAIL",43290252,49797572,115313044
+"607","Max Payne",2008,"ok","ok","PASS",37878971,44034081,92816237
+"608","Meet Dave",2008,"notalk","notalk","FAIL",64935379,12774146,54814990
+"609","Milk",2008,"notalk-disagree","notalk","FAIL",21645126,34460447,62006112
+"610","Miracle at St. Anna",2008,"men","men","FAIL",48701534,8568101,9859851
+"611","Nick and Norah&#39;s Infinite Playlist",2008,"ok","ok","PASS",10822563,34077322,36303849
+"612","Nim&#39;s Island",2008,"ok","ok","PASS",40043484,51955621,101820495
+"613","Pineapple Express",2008,"men","men","FAIL",28138664,94525760,109902346
+"614","Pontypool",2008,"nowomen-disagree","nowomen","FAIL",1623384,4183,34541
+"615","Possession",2008,"ok","ok","PASS",27056408,10934736,16023683
+"616","Prom Night",2008,"ok","ok","PASS",19480614,47477881,61807319
+"617","Quantum of Solace",2008,"notalk","notalk","FAIL",248918952,183300049,640362486
+"618","Quarantine",2008,"ok","ok","PASS",12987076,34298662,44688323
+"619","Rachel Getting Married",2008,"ok","ok","PASS",12987076,13849484,14423083
+"620","Revolutionary Road",2008,"ok","ok","PASS",48701534,24796094,86109680
+"621","RocknRolla",2008,"notalk","notalk","FAIL",19480614,6169538,30080599
+"622","Seven Pounds",2008,"ok","ok","PASS",58441841,75705803,180322655
+"623","Sex and the City",2008,"ok","ok","PASS",62229738,165203458,449403966
+"624","Slumdog Millionaire",2008,"notalk","notalk","FAIL",15151588,152944384,416148834
+"625","Speed Racer",2008,"ok","ok","PASS",129870757,47560583,101076746
+"626","Stargate: The Ark of Truth",2008,"dubious-disagree","dubious","FAIL",7575794,NA,NA
+"627","Step Brothers",2008,"notalk-disagree","notalk","FAIL",70346660,108732985,139036162
+"628","Sunshine Cleaning",2008,"ok","ok","PASS",5411282,13054780,17816707
+"629","Synecdoche, New York",2008,"dubious","dubious","FAIL",21645126,3337178,4744112
+"630","Taken",2008,"ok","ok","PASS",27056408,156928235,245608963
+"631","The Bank Job",2008,"ok","ok","PASS",21645126,32533339,71583685
+"632","The Brothers Bloom",2008,"dubious","dubious","FAIL",21645126,3822265,5986778
+"633","The Chronicles of Narnia: Prince Caspian",2008,"ok","ok","PASS",243507670,153270751,453996009
+"634","The Curious Case of Benjamin Button",2008,"dubious-disagree","dubious","FAIL",173161010,137997773,356938225
+"635","The Dark Knight",2008,"dubious-disagree","dubious","FAIL",200217418,577216380,1085385502
+"636","The Day the Earth Stood Still",2008,"ok","ok","PASS",86580505,85895413,252238208
+"637","The Eye",2008,"ok","ok","PASS",12987076,34003083,61600619
+"638","The Forbidden Kingdom",2008,"notalk-disagree","notalk","FAIL",59524097,56358790,139692526
+"639","The House Bunny",2008,"ok","ok","PASS",27056408,52205219,76014858
+"640","The Hurt Locker",2008,"notalk-disagree","notalk","FAIL",16233845,18417633,53998338
+"641","The Incredible Hulk",2008,"notalk","notalk","FAIL",148810243,145895632,285085699
+"642","The Lucky Ones",2008,"ok","ok","PASS",15151588,288927,288927
+"643","The Other Boleyn Girl",2008,"ok","ok","PASS",43290252,29020656,84107503
+"644","The Reader",2008,"notalk","notalk","FAIL",35173330,37007113,122315840
+"645","The Secret Life of Bees",2008,"ok","ok","PASS",11904819,40876996,43272961
+"646","The Sisterhood of the Traveling Pants 2",2008,"ok","ok","PASS",29220920,47716642,47911629
+"647","The Strangers",2008,"dubious-disagree","dubious","FAIL",9740307,56924095,89883201
+"648","The Tale of Despereaux",2008,"ok","ok","PASS",64935379,55062111,97925059
+"649","The Women",2008,"ok","ok","PASS",17316101,29114940,54225162
+"650","The Wrestler",2008,"notalk","notalk","FAIL",6493538,28396504,50470238
+"651","Three Kingdoms: Resurrection of the Dragon",2008,"notalk","notalk","FAIL",21645126,NA,23960711
+"652","Transsiberian",2008,"ok","ok","PASS",16233845,2384904,6904335
+"653","Tropic Thunder",2008,"nowomen","nowomen","FAIL",97403068,119547447,203641087
+"654","Twilight",2008,"ok-disagree","ok","PASS",40043484,208626391,430655689
+"655","Valkyrie",2008,"notalk","notalk","FAIL",97403068,89911432,220674342
+"656","Vicky Cristina Barcelona",2008,"ok","ok","PASS",17316101,25126430,113100998
+"657","WALL-E",2008,"notalk-disagree","notalk","FAIL",194806136,242217798,576399965
+"658","Waltz with Bashir",2008,"nowomen","nowomen","FAIL",2164513,2471710,12040820
+"659","Wanted",2008,"notalk","notalk","FAIL",81169223,145572728,370582375
+"660","Welcome Home, Roscoe Jenkins",2008,"dubious","dubious","FAIL",29762049,45927188,47194630
+"661","Wendy and Lucy",2008,"ok","ok","PASS",324677,936904,1532525
+"662","What Happens In Vegas",2008,"ok","ok","PASS",37878971,86880989,236511649
+"663","Yes Man",2008,"notalk-disagree","notalk","FAIL",54112816,105726675,244580160
+"664","[Rec]",2007,"ok","ok","PASS",2359441,NA,30468201
+"665","1408",2007,"ok","ok","PASS",25279728,80878983,147480104
+"666","28 Weeks Later",2007,"ok","ok","PASS",16853152,32177067,72168247
+"667","3:10 to Yuma",2007,"nowomen","nowomen","FAIL",53930087,60229701,79964640
+"668","30 Days of Night",2007,"men","men","FAIL",33706305,44457488,90193752
+"669","88 Minutes",2007,"notalk","notalk","FAIL",33706305,19022584,37026824
+"670","Across the Universe",2007,"ok","ok","PASS",50559457,27351175,32995262
+"671","Atonement",2007,"ok","ok","PASS",33706305,57278425,146285687
+"672","Becoming Jane",2007,"ok","ok","PASS",18538467,20969716,44228231
+"673","Beowulf",2007,"ok","ok","PASS",168531522,92349898,219085603
+"674","Blades of Glory",2007,"ok","ok","PASS",68536152,133246132,163581806
+"675","Bridge to Terabithia",2007,"ok","ok","PASS",28088587,92393631,155031909
+"676","Brooklyn Rules",2007,"ok","ok","PASS",8988348,514844,514844
+"677","Charlie Bartlett",2007,"men","men","FAIL",13482522,4438327,5950184
+"678","Charlie Wilson&#39;s War",2007,"ok","ok","PASS",84265761,74896639,134277795
+"679","Death at a Funeral",2007,"ok-disagree","ok","PASS",23594413,48019515,55028051
+"680","Diary of the Dead",2007,"ok","ok","PASS",3089745,1070310,6060896
+"681","Disturbia",2007,"ok-disagree","ok","PASS",22470870,90119077,132098426
+"682","Eastern Promises",2007,"ok","ok","PASS",56177174,19303898,62207616
+"683","Enchanted",2007,"ok","ok","PASS",95501196,143484229,382436383
+"684","Fantastic Four: Rise of the Silver Surfer",2007,"dubious","dubious","FAIL",134825218,148219809,323822443
+"685","Gone Baby Gone",2007,"ok","ok","PASS",21347326,22808178,38896737
+"686","Hairspray",2007,"ok","ok","PASS",84265761,133557691,227935344
+"687","Halloween",2007,"ok","ok","PASS",16853152,65467925,87090800
+"688","Hannibal Rising",2007,"notalk","notalk","FAIL",56177174,31088139,90538854
+"689","Harry Potter and the Order of the Phoenix",2007,"ok-disagree","ok","PASS",168531522,328080020,1059438513
+"690","Hitman",2007,"nowomen-disagree","nowomen","FAIL",19662011,44590850,112315914
+"691","Hostel: Part II",2007,"ok","ok","PASS",8426576,19712359,37758262
+"692","Hot Fuzz",2007,"notalk-disagree","notalk","FAIL",17976696,26536733,91841386
+"693","Hot Rod",2007,"notalk","notalk","FAIL",28088587,15660322,16105323
+"694","I Am Legend",2007,"ok-disagree","ok","PASS",168531522,288068696,657733649
+"695","Into the Wild",2007,"notalk","notalk","FAIL",22470870,20621917,63362472
+"696","Juno",2007,"ok","ok","PASS",7864804,161223170,260044254
+"697","Knocked Up",2007,"ok-disagree","ok","PASS",30897446,167140312,246229599
+"698","Lars and the real Girl",2007,"ok","ok","PASS",14044294,6692364,11857251
+"699","Live Free or Die Hard",2007,"notalk","notalk","FAIL",123589783,151149634,430914277
+"700","Michael Clayton",2007,"men-disagree","men","FAIL",24156185,55091699,104475669
+"701","Music and Lyrics",2007,"men","men","FAIL",44941739,56820503,162937935
+"702","No Country for Old Men",2007,"dubious","dubious","FAIL",28088587,83449513,184318713
+"703","No Reservations",2007,"ok","ok","PASS",31459218,48433689,102990511
+"704","Paranormal Activity",2007,"dubious","dubious","FAIL",505595,121251476,218173082
+"705","Persepolis",2007,"ok","ok","PASS",8201867,4992356,25552185
+"706","Pirates of the Caribbean: At World&#39;s End",2007,"ok","ok","PASS",337063045,347647302,1079721346
+"707","Premonition",2007,"ok","ok","PASS",22470870,53764481,91525361
+"708","Ratatouille",2007,"nowomen-disagree","nowomen","FAIL",168531522,231950669,703955827
+"709","Resident Evil: Extinction",2007,"ok","ok","PASS",50559457,56905993,164220396
+"710","Rush Hour 3",2007,"notalk","notalk","FAIL",202237827,157437618,284285677
+"711","Shooter",2007,"notalk-disagree","notalk","FAIL",67412609,52810568,107527136
+"712","Shrek the Third",2007,"ok-disagree","ok","PASS",179766957,362589890,907071412
+"713","St. Trinian&#39;s",2007,"ok","ok","PASS",12808396,16853,25219695
+"714","Stardust",2007,"ok","ok","PASS",78648044,43408033,152303819
+"715","Sunshine",2007,"notalk-disagree","notalk","FAIL",44941739,4144258,35987783
+"716","Superbad",2007,"notalk-disagree","notalk","FAIL",19662011,136469216,190848721
+"717","Sydney White",2007,"ok","ok","PASS",18538467,13361645,15321020
+"718","Teeth",2007,"dubious-disagree","dubious","FAIL",2247087,390519,2641047
+"719","The Bucket List",2007,"notalk","notalk","FAIL",50559457,105013679,195845194
+"720","The Golden Compass",2007,"ok","ok","PASS",230326414,78769081,418222056
+"721","The Kite Runner",2007,"nowomen","nowomen","FAIL",22470870,17752075,83345293
+"722","The Man from Earth",2007,"notalk","notalk","FAIL",224709,NA,NA
+"723","The Messengers",2007,"ok","ok","PASS",17976696,39745163,60418363
+"724","The Mist",2007,"ok","ok","PASS",14606065,28755697,61544892
+"725","The Number 23",2007,"notalk","notalk","FAIL",35953391,39541053,87179297
+"726","The Savages",2007,"ok","ok","PASS",10111891,7441321,11956776
+"727","The Signal",2007,"men","men","FAIL",56177,282178,456495
+"728","The Simpsons Movie",2007,"ok","ok","PASS",81456903,205760152,592187212
+"729","The Visitor",2007,"dubious","dubious","FAIL",4494174,10591674,21543741
+"730","There Will Be Blood",2007,"nowomen-disagree","nowomen","FAIL",28088587,45191743,86747344
+"731","TMNT",2007,"notalk-disagree","notalk","FAIL",39324022,60838866,107968055
+"732","Transformers",2007,"notalk-disagree","notalk","FAIL",169655066,358686980,795775055
+"733","Tropa de Elite",2007,"ok-disagree","ok","PASS",7345604,9824,16088238
+"734","Waitress",2007,"ok","ok","PASS",1685315,21456928,24961971
+"735","We Own the Night",2007,"nowomen","nowomen","FAIL",31459218,32091974,62140782
+"736","White Noise 2: The Light",2007,"notalk","notalk","FAIL",11235435,NA,9262006
+"737","300",2006,"nowomen-disagree","nowomen","FAIL",69347781,243427977,524918705
+"738","A Scanner Darkly",2006,"notalk","notalk","FAIL",23115927,6358748,8558769
+"739","Akeelah and the Bee",2006,"ok","ok","PASS",9246371,21784947,21913233
+"740","Aquamarine",2006,"ok","ok","PASS",13869556,21494740,26558990
+"741","Bandidas",2006,"ok","ok","PASS",40452872,NA,21266653
+"742","Black Christmas",2006,"ok","ok","PASS",10402167,18765207,18765207
+"743","Blood Diamond",2006,"notalk","notalk","FAIL",115579635,66317186,198077969
+"744","Bon Cop, Bad Cop",2006,"notalk","notalk","FAIL",9246371,14645442,14645442
+"745","Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,"notalk","notalk","FAIL",20804334,148526717,302324822
+"746","Bug",2006,"ok","ok","PASS",4623185,8098328,8098328
+"747","Cars",2006,"notalk-disagree","notalk","FAIL",80905744,282110219,533594150
+"748","Casino Royale",2006,"notalk","notalk","FAIL",117891227,193439856,689276488
+"749","Children of Men",2006,"ok","ok","PASS",87840522,41091314,80270290
+"750","Clerks II",2006,"dubious","dubious","FAIL",5778982,27910249,29928737
+"751","Crank",2006,"nowomen","nowomen","FAIL",13869556,32175530,50768266
+"752","Das Leben Der Anderen",2006,"nowomen-disagree","nowomen","FAIL",2311593,13042765,93847250
+"753","DOA: Dead or Alive",2006,"ok","ok","PASS",34673890,555145,8964615
+"754","El laberinto del fauno (Pan's Labyrinth)",2006,"ok-disagree","ok","PASS",18492742,43497951,100602327
+"755","Eragon",2006,"notalk","notalk","FAIL",115579635,86719588,288357452
+"756","Fido",2006,"men","men","FAIL",9246371,344554,485204
+"757","Final Destination 3",2006,"ok","ok","PASS",28894909,62526330,130371575
+"758","Flushed Away",2006,"nowomen","nowomen","FAIL",172213656,74740347,205345335
+"759","For Your Consideration",2006,"ok","ok","PASS",13869556,6414581,6414581
+"760","Friends with Money",2006,"ok","ok","PASS",7512676,15451191,20247613
+"761","Ice Age: The Meltdown",2006,"notalk","notalk","FAIL",86684726,225762418,753462808
+"762","Idlewild",2006,"ok","ok","PASS",17336945,14643840,14643840
+"763","Inside Man",2006,"dubious-disagree","dubious","FAIL",57789817,102443127,213399577
+"764","Jackass Number Two",2006,"notalk","notalk","FAIL",12713760,84117369,98564824
+"765","Lady in the Water",2006,"men","men","FAIL",86684726,48873044,84124832
+"766","Last Holiday",2006,"ok","ok","PASS",52010836,44382535,50095967
+"767","Letters from Iwo Jima",2006,"notalk","notalk","FAIL",15025353,15899229,79468028
+"768","Little Children",2006,"ok","ok","PASS",16181149,6314137,17063043
+"769","Little Miss Sunshine",2006,"ok","ok","PASS",9246371,69221912,116216452
+"770","London To Brighton",2006,"ok","ok","PASS",953532,NA,705933
+"771","Lucky Number Slevin",2006,"notalk-disagree","notalk","FAIL",31206501,26000177,64141457
+"772","Man of the Year",2006,"notalk","notalk","FAIL",23115927,43275535,47783141
+"773","Marie Antoinette",2006,"ok","ok","PASS",46231854,18449366,70344622
+"774","Miss Potter",2006,"ok","ok","PASS",34673890,3473867,41482984
+"775","Monster House",2006,"ok","ok","PASS",86684726,85137126,163276310
+"776","Nacho Libre",2006,"nowomen-disagree","nowomen","FAIL",36985483,92692547,114766488
+"777","Night at the Museum",2006,"ok","ok","PASS",127137598,289946849,663982857
+"778","Notes on a Scandal",2006,"ok","ok","PASS",31784400,20238130,57503632
+"779","Once",2006,"men","men","FAIL",173369,10917487,21956864
+"780","Open Season",2006,"notalk","notalk","FAIL",98242689,98364347,219487695
+"781","Paris je t&#39;aime",2006,"dubious","dubious","FAIL",15025353,5614135,5614135
+"782","Perfume: The Story of a Murderer",2006,"ok","ok","PASS",73624227,2569674,154418394
+"783","Pirates of the Caribbean: Dead Man&#39;s Chest",2006,"men-disagree","men","FAIL",260054178,489266869,1225855881
+"784","Poseidon",2006,"men","men","FAIL",184927415,70127732,209979090
+"785","Quinceanera",2006,"ok","ok","PASS",462319,1956408,2915828
+"786","Rang De Basanti",2006,"ok","ok","PASS",6125721,2540087,33746588
+"787","Running with Scissors",2006,"ok","ok","PASS",13869556,7928763,10063173
+"788","She&#39;s the Man",2006,"men-disagree","men","FAIL",28894909,39168966,63891969
+"789","Sherrybaby",2006,"dubious","dubious","FAIL",2311593,230207,719837
+"790","Shortbus",2006,"ok","ok","PASS",2311593,2294593,2294593
+"791","Silent Hill",2006,"ok","ok","PASS",57789817,54302354,115559561
+"792","Slither",2006,"ok","ok","PASS",17625894,9018043,14944843
+"793","Smokin&#39; Aces",2006,"dubious-disagree","dubious","FAIL",19648538,41218854,64779219
+"794","Snakes on a Plane",2006,"ok","ok","PASS",38141279,39321133,71683430
+"795","Southland Tales",2006,"ok","ok","PASS",19648538,318283,421411
+"796","Stick It",2006,"ok","ok","PASS",23115927,31103330,35135878
+"797","Stranger Than Fiction",2006,"ok","ok","PASS",34673890,46734845,52282667
+"798","Superman Returns",2006,"notalk","notalk","FAIL",268144752,231297965,451770741
+"799","Take the Lead",2006,"ok","ok","PASS",34673890,40154753,75578093
+"800","The Ant Bully",2006,"men","men","FAIL",52010836,32527039,57340095
+"801","The Break Up",2006,"notalk","notalk","FAIL",60101410,137316349,234562168
+"802","The Da Vinci Code",2006,"notalk","notalk","FAIL",144474543,251427474,887444081
+"803","The Dead Girl",2006,"ok","ok","PASS",3814128,22971,22971
+"804","The Departed",2006,"notalk","notalk","FAIL",104021671,154080367,335803963
+"805","The Devil Wears Prada",2006,"ok","ok","PASS",40452872,144174568,377426561
+"806","The Fountain",2006,"dubious","dubious","FAIL",40452872,11724410,17870505
+"807","The Grudge 2",2006,"ok","ok","PASS",23115927,45242306,81765471
+"808","The History Boys",2006,"notalk","notalk","FAIL",4276446,3155666,15517247
+"809","The Holiday",2006,"ok-disagree","ok","PASS",98242689,73138793,237158227
+"810","The Host",2006,"ok","ok","PASS",57789817,30771576,67253922
+"811","The Illusionist",2006,"nowomen","nowomen","FAIL",19070640,46080031,96846559
+"812","The Lake House",2006,"dubious","dubious","FAIL",46231854,60482951,132720223
+"813","The Painted Veil",2006,"dubious","dubious","FAIL",22422449,9316281,17474248
+"814","The Prestige",2006,"notalk","notalk","FAIL",46231854,61361102,124705810
+"815","The Pursuit of Happyness",2006,"nowomen-disagree","nowomen","FAIL",63568799,187916346,355205844
+"816","The Queen",2006,"dubious-disagree","dubious","FAIL",17336945,65235123,148965821
+"817","The Wind That Shakes the Barley",2006,"notalk-disagree","notalk","FAIL",9593110,2114116,29669493
+"818","Ultraviolet",2006,"notalk","notalk","FAIL",34673890,21407734,23950486
+"819","Volver",2006,"ok","ok","PASS",10864486,14909619,98936014
+"820","We Are Marshall",2006,"notalk","notalk","FAIL",75126763,50329573,50329573
+"821","When a Stranger Calls",2006,"ok","ok","PASS",17336945,55316660,77374176
+"822","Wristcutters: A Love Story",2006,"notalk","notalk","FAIL",1155796,515676,531824
+"823","X-Men: The Last Stand",2006,"ok","ok","PASS",242717233,270875277,530926095
+"824","You, Me and Dupree",2006,"notalk","notalk","FAIL",62413003,87611686,150718167
+"825","Zoom",2006,"ok","ok","PASS",40452872,13857222,14454606
+"826","Zwartboek",2006,"ok","ok","PASS",25427520,5083807,31481990
+"827","AEon Flux",2005,"ok","ok","PASS",65616822,30849435,57209924
+"828","Assault on Precinct 13",2005,"ok","ok","PASS",35790994,23909452,42997982
+"829","Batman Begins",2005,"notalk","notalk","FAIL",178954969,244981925,445357804
+"830","Beauty Shop",2005,"ok","ok","PASS",29825828,43368365,45754431
+"831","Bewitched",2005,"ok","ok","PASS",95442650,75534696,156477397
+"832","BloodRayne",2005,"dubious","dubious","FAIL",29825828,2869746,4301386
+"833","Boogeyman",2005,"men","men","FAIL",23860663,55777141,80163307
+"834","Boynton Beach Club",2005,"ok","ok","PASS",3459796,3731178,3731178
+"835","Brick",2005,"notalk","notalk","FAIL",536865,2476430,4876515
+"836","Brokeback Mountain",2005,"notalk","notalk","FAIL",16583160,99073958,207704444
+"837","Capote",2005,"dubious","dubious","FAIL",8351232,34300335,59561080
+"838","Charlie and the Chocolate Factory",2005,"ok","ok","PASS",178954969,246312517,566045396
+"839","Chinjeolhan geumjassi",2005,"ok","ok","PASS",5368649,252526,28002720
+"840","Cinderella Man",2005,"men","men","FAIL",104986915,73550386,129491710
+"841","Coach Carter",2005,"ok","ok","PASS",53686491,80249227,91469619
+"842","Constantine",2005,"notalk","notalk","FAIL",89477485,90642097,275453129
+"843","Conversations with Other Women",2005,"nowomen-disagree","nowomen","FAIL",536865,452658,1084540
+"844","Corpse Bride",2005,"dubious","dubious","FAIL",35790994,63659187,136925192
+"845","Cursed",2005,"ok","ok","PASS",41756160,23019456,29962909
+"846","Danny the dog",2005,"notalk","notalk","FAIL",51300425,29274195,58503506
+"847","Dark Water",2005,"ok","ok","PASS",71581988,30390244,59023039
+"848","Dear Wendy",2005,"notalk","notalk","FAIL",9544265,27566,532615
+"849","Domino",2005,"ok","ok","PASS",59651656,12132195,27403019
+"850","Doom",2005,"notalk","notalk","FAIL",83512319,33658253,65154327
+"851","Fantastic Four",2005,"notalk-disagree","notalk","FAIL",104390399,184557548,394556433
+"852","Flightplan",2005,"ok","ok","PASS",65616822,107023409,269275914
+"853","Fun with Dick and Jane",2005,"ok","ok","PASS",167024638,131889812,240751838
+"854","Good Night, and Good Luck.",2005,"notalk","notalk","FAIL",8351232,37581997,67510048
+"855","Hard Candy",2005,"ok-disagree","ok","PASS",1133381,1222429,9862884
+"856","Harry Potter and the Goblet of Fire",2005,"notalk-disagree","notalk","FAIL",178954969,345995160,1070044630
+"857","Herbie Fully Loaded",2005,"ok","ok","PASS",59651656,78752930,171928818
+"858","Hide and Seek",2005,"ok","ok","PASS",29825828,60964573,146862958
+"859","Hitch",2005,"men","men","FAIL",65616822,212102508,437585770
+"860","Hoodwinked!",2005,"ok","ok","PASS",20878080,61305929,131046803
+"861","Hostel",2005,"notalk","notalk","FAIL",5726559,56462050,98116369
+"862","Hustle &amp; Flow",2005,"dubious","dubious","FAIL",3340493,26488687,28112307
+"863","Ice Princess",2005,"ok","ok","PASS",29825828,29087739,30699527
+"864","Jarhead",2005,"nowomen","nowomen","FAIL",85898385,74740591,115661627
+"865","Junebug",2005,"ok","ok","PASS",1193033,3194955,4244757
+"866","Just Like Heaven",2005,"ok","ok","PASS",69195921,57645130,120123026
+"867","King Kong",2005,"nowomen","nowomen","FAIL",246957858,260176695,656785445
+"868","Kingdom of Heaven",2005,"nowomen","nowomen","FAIL",131233644,56547877,261099301
+"869","Kiss Kiss Bang Bang",2005,"notalk","notalk","FAIL",17895497,5053494,15635698
+"870","Lord of War",2005,"men","men","FAIL",50107391,28811311,74138215
+"871","Madagascar",2005,"nowomen","nowomen","FAIL",89477485,230965870,663994001
+"872","Man of the House",2005,"ok","ok","PASS",59651656,23502402,26365681
+"873","Match Point",2005,"ok","ok","PASS",17895497,27547047,104974897
+"874","Me and You and Everyone We Know",2005,"ok","ok","PASS",2386066,4635094,10051933
+"875","Memoirs of a Geisha",2005,"ok","ok","PASS",101407816,68015836,192687798
+"876","MirrorMask",2005,"ok","ok","PASS",4772133,1031925,1149158
+"877","Miss Congeniality 2: Armed &amp; Fabulous",2005,"ok","ok","PASS",71581988,57835867,120952557
+"878","Mr. &amp; Mrs. Smith",2005,"men","men","FAIL",131233644,222305354,570671028
+"879","Munich",2005,"notalk","notalk","FAIL",89477485,56524824,155427270
+"880","North Country",2005,"ok","ok","PASS",35790994,21861428,30093356
+"881","Oliver Twist",2005,"notalk","notalk","FAIL",77547153,2470676,31819291
+"882","Pride and Prejudice",2005,"ok","ok","PASS",33404928,45779857,144259786
+"883","Proof",2005,"ok","ok","PASS",23860663,8989900,9883481
+"884","Red Eye",2005,"ok","ok","PASS",31018861,69066839,114001241
+"885","Rent",2005,"ok","ok","PASS",47721325,34690477,37784099
+"886","Robots",2005,"notalk-disagree","notalk","FAIL",95442650,152946861,311023751
+"887","Saw II",2005,"dubious-disagree","dubious","FAIL",5965166,103823819,182444702
+"888","Serenity",2005,"ok","ok","PASS",46528292,30439664,45949095
+"889","Shopgirl",2005,"men","men","FAIL",8947748,12269777,14028182
+"890","Sin City",2005,"ok-disagree","ok","PASS",47721325,88408312,189398567
+"891","Sisters in Law",2005,"ok","ok","PASS",357910,39742,39742
+"892","Sky High",2005,"ok","ok","PASS",71581988,76281887,97384257
+"893","Son of the Mask",2005,"notalk","notalk","FAIL",119303313,20303541,71484662
+"894","Star Wars: Episode III - Revenge of the Sith",2005,"notalk-disagree","notalk","FAIL",137198810,453675396,1012883787
+"895","Stealth",2005,"notalk","notalk","FAIL",164638572,38316342,91167710
+"896","Strangers with Candy",2005,"ok","ok","PASS",2386066,2472734,2478937
+"897","Thank You for Smoking",2005,"notalk","notalk","FAIL",8947748,29579478,47741203
+"898","The 40 Year Old Virgin",2005,"men-disagree","men","FAIL",31018861,130576566,211596412
+"899","The Adventures of Sharkboy and Lavagirl 3-D",2005,"notalk","notalk","FAIL",59651656,46740275,82827477
+"900","The Amityville Horror",2005,"ok","ok","PASS",22071113,77825570,130250195
+"901","The Ballad of Jack and Rose",2005,"ok","ok","PASS",1789550,849790,1343663
+"902","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,"ok","ok","PASS",214745963,348020836,893351507
+"903","The Constant Gardener",2005,"ok","ok","PASS",30422345,40061811,96730885
+"904","The Descent",2005,"ok","ok","PASS",8351232,31048038,68038213
+"905","The Devil&#39;s Rejects",2005,"ok","ok","PASS",8351232,20335227,24982624
+"906","The Exorcism of Emily Rose",2005,"ok","ok","PASS",21474596,89563925,172497916
+"907","The Fog",2005,"ok","ok","PASS",21474596,35207734,44200119
+"908","The Hitchhiker&#39;s Guide to the Galaxy",2005,"notalk-disagree","notalk","FAIL",53686491,60867491,124098247
+"909","The Island",2005,"ok","ok","PASS",143163975,42733150,194486964
+"910","The Jacket",2005,"men","men","FAIL",34001444,7517458,18435915
+"911","The Legend of Zorro",2005,"notalk","notalk","FAIL",95442650,54372886,168784763
+"912","The New World",2005,"dubious","dubious","FAIL",35790994,15165948,31238857
+"913","The Ring Two",2005,"ok","ok","PASS",59651656,90600996,193201845
+"914","The Skeleton Key",2005,"ok","ok","PASS",47721325,57155491,110065560
+"915","The Squid and the Whale",2005,"men","men","FAIL",1789550,8795916,13351738
+"916","The Wedding Date",2005,"ok","ok","PASS",17895497,37851356,56281383
+"917","Transamerica",2005,"ok","ok","PASS",1193033,10755555,19748472
+"918","Tristram Shandy: A Cock and Bull Story",2005,"men","men","FAIL",5666907,1495363,3652785
+"919","V for Vendetta",2005,"ok-disagree","ok","PASS",59651656,84122001,154177511
+"920","Waiting...",2005,"ok","ok","PASS",1342162,19237114,22277835
+"921","Walk the Line",2005,"ok","ok","PASS",34597961,142590606,223941260
+"922","War of the Worlds",2005,"notalk","notalk","FAIL",157480373,279504224,723976090
+"923","Water",2005,"ok","ok","PASS",3579099,6596452,9686481
+"924","White Noise",2005,"notalk","notalk","FAIL",11930331,66922430,109871622
+"925","Yours, Mine and Ours",2005,"ok","ok","PASS",53686491,63660149,86327778
+"926","Zathura: A Space Adventure",2005,"nowomen","nowomen","FAIL",77547153,33459258,69846769
+"927","13 Going on 30",2004,"ok","ok","PASS",36995786,70464299,118928779
+"928","2046",2004,"ok","ok","PASS",14798315,1778681,23680825
+"929","50 First Dates",2004,"men-disagree","men","FAIL",92489466,148941129,242105970
+"930","A Cinderella Story",2004,"ok","ok","PASS",23430665,63433191,86407246
+"931","A Home at the End of The World",2004,"dubious","dubious","FAIL",8015754,1268976,1274887
+"932","A Very Long Engagement",2004,"ok","ok","PASS",67825608,7606108,73506419
+"933","Anchorman: The Legend of Ron Burgundy",2004,"men-disagree","men","FAIL",30829822,103757037,110205951
+"934","Around the World in 80 Days",2004,"notalk","notalk","FAIL",135651216,29601758,88795016
+"935","AVP: Alien vs. Predator",2004,"dubious-disagree","dubious","FAIL",86323501,99002076,212779439
+"936","Banlieue 13",2004,"nowomen","nowomen","FAIL",18497893,1480098,13821985
+"937","Before Sunset",2004,"nowomen","nowomen","FAIL",2466386,7143667,13927421
+"938","Bridget Jones: The Edge of Reason",2004,"ok","ok","PASS",61659644,49578078,325432881
+"939","Catwoman",2004,"ok","ok","PASS",123319288,49577287,101301096
+"940","Cellular",2004,"ok","ok","PASS",55493679,39466636,75811746
+"941","Closer",2004,"ok","ok","PASS",43161751,41913460,142404808
+"942","Collateral",2004,"nowomen-disagree","nowomen","FAIL",73991573,123529118,268429281
+"943","Connie and Carla",2004,"ok","ok","PASS",24663858,9924151,9924151
+"944","Crash",2004,"ok","ok","PASS",9006109,68238010,124765870
+"945","D.E.B.S.",2004,"ok","ok","PASS",4316175,119364,119364
+"946","Dawn of the Dead",2004,"ok","ok","PASS",34529401,72746991,127577349
+"947","Dodgeball: A True Underdog Story",2004,"ok","ok","PASS",36995786,140986916,206919534
+"948","Ella Enchanted",2004,"ok","ok","PASS",43161751,28256983,28256983
+"949","Eternal Sunshine of the Spotless Mind",2004,"men","men","FAIL",24663858,42380545,90014995
+"950","Eulogy",2004,"ok","ok","PASS",12331929,86973,86973
+"951","Finding Neverland",2004,"ok","ok","PASS",30829822,63727222,141861709
+"952","Flight of the Phoenix",2004,"nowomen","nowomen","FAIL",92489466,25908371,41939879
+"953","Garden State",2004,"ok","ok","PASS",3082982,33027761,44430462
+"954","Harold and Kumar Go to White Castle",2004,"ok-disagree","ok","PASS",11098736,22475144,22475144
+"955","Harry Potter and the Prisoner of  Azkaban",2004,"ok","ok","PASS",160315074,307729658,982470644
+"956","Hellboy",2004,"notalk","notalk","FAIL",73991573,73527840,123102194
+"957","Home on the Range",2004,"ok","ok","PASS",135651216,61692142,94317626
+"958","I Heart Huckabees",2004,"ok","ok","PASS",27130243,15766017,24706665
+"959","I, Robot",2004,"notalk-disagree","notalk","FAIL",129485252,178567590,429892298
+"960","In Good Company",2004,"notalk","notalk","FAIL",32063015,56097638,78295110
+"961","Kinsey",2004,"ok","ok","PASS",13565122,12596630,16032690
+"962","Kung Fu Hustle",2004,"nowomen-disagree","nowomen","FAIL",24663858,21093356,124558238
+"963","Layer Cake",2004,"notalk","notalk","FAIL",8015754,2885618,14613600
+"964","Lemony Snicket&#39;s A Series of Unfortunate Events",2004,"ok","ok","PASS",123319288,146290116,248645124
+"965","Maria Full of Grace",2004,"ok","ok","PASS",3946217,8052286,17808733
+"966","Mean Girls",2004,"ok","ok","PASS",22197472,106112827,161490339
+"967","Million Dollar Baby",2004,"ok","ok","PASS",36995786,123926269,286120974
+"968","Miracle",2004,"notalk","notalk","FAIL",34529401,79390606,79509747
+"969","My Summer of Love",2004,"ok","ok","PASS",2096428,1234321,6106125
+"970","Napoleon Dynamite",2004,"notalk-disagree","notalk","FAIL",493277,54927590,56878201
+"971","New York Minute",2004,"notalk-disagree","notalk","FAIL",49327715,17287347,26163275
+"972","Primer",2004,"notalk","notalk","FAIL",8632,523811,697797
+"973","Raising Helen",2004,"ok","ok","PASS",61659644,46226886,53446952
+"974","Ray",2004,"dubious","dubious","FAIL",49327715,92866817,153930950
+"975","Resident Evil: Apocalypse",2004,"ok","ok","PASS",61659644,62572303,159007986
+"976","Saved!",2004,"ok-disagree","ok","PASS",6165964,10958349,12613378
+"977","Saw",2004,"men-disagree","men","FAIL",1479831,68053804,127137678
+"978","Secret Window",2004,"notalk","notalk","FAIL",49327715,59141502,113591309
+"979","Shark Tale",2004,"notalk","notalk","FAIL",92489466,199052129,453599307
+"980","Shaun of the Dead",2004,"ok-disagree","ok","PASS",6165964,16700976,37405681
+"981","Shrek 2",2004,"ok-disagree","ok","PASS",86323501,544117065,1155511754
+"982","Sideways",2004,"ok","ok","PASS",20964279,88176131,135496025
+"983","Sky Captain and the World of Tomorrow",2004,"ok-disagree","ok","PASS",86323501,46565462,61327735
+"984","Spanglish",2004,"ok","ok","PASS",92489466,51848757,67017030
+"985","Spider-Man 2",2004,"notalk-disagree","notalk","FAIL",246638575,460627734,966459425
+"986","Team America: World Police",2004,"men","men","FAIL",24663858,40417692,61998567
+"987","The Aviator",2004,"notalk","notalk","FAIL",135651216,126536475,264654077
+"988","The Bourne Supremacy",2004,"men","men","FAIL",104821395,217149789,355883988
+"989","The Butterfly Effect",2004,"men-disagree","men","FAIL",16031507,71432302,118444284
+"990","The Chronicles of Riddick",2004,"men-disagree","men","FAIL",147983145,71170953,132214001
+"991","The Day After Tomorrow",2004,"ok","ok","PASS",154149110,230287423,686049183
+"992","The Grudge",2004,"ok","ok","PASS",12331929,136094379,230953737
+"993","The Incredibles",2004,"ok-disagree","ok","PASS",113453745,322407292,779510522
+"994","The Life Aquatic with Steve Zissou",2004,"men","men","FAIL",61659644,29604924,42923407
+"995","The Notebook",2004,"dubious","dubious","FAIL",36995786,99890827,126127005
+"996","The Phantom of the Opera",2004,"men-disagree","men","FAIL",67825608,63171287,195122925
+"997","The Polar Express",2004,"notalk","notalk","FAIL",209642789,240410531,393449767
+"998","The Princess Diaries 2: Royal Engagement",2004,"ok","ok","PASS",55493679,117337605,150537624
+"999","The Stepford Wives",2004,"ok","ok","PASS",123319288,73344915,118660249
+"1000","The Terminal",2004,"notalk","notalk","FAIL",92489466,95047057,269667169
+"1001","The Village",2004,"ok","ok","PASS",88398934,140827568,317721828
+"1002","The Whole Ten Yards",2004,"notalk","notalk","FAIL",36995786,20130602,32462531
+"1003","Troy",2004,"notalk","notalk","FAIL",184978932,164382856,597064223
+"1004","Van Helsing",2004,"ok","ok","PASS",209642789,148168797,370143515
+"1005","Vera Drake",2004,"ok","ok","PASS",13565122,4629167,16467879
+"1006","White Chicks",2004,"ok","ok","PASS",24663858,85274051,137438109
+"1007","Wimbledon",2004,"ok","ok","PASS",43161751,20794820,51382801
+"1008","2 Fast 2 Furious",2003,"notalk","notalk","FAIL",96222609,160945047,299075134
+"1009","21 grams",2003,"dubious","dubious","FAIL",25321739,20572268,75544402
+"1010","Big Fish",2003,"notalk-disagree","notalk","FAIL",88626087,84109786,156276743
+"1011","Bon voyage",2003,"ok","ok","PASS",25321739,2980024,10586685
+"1012","Bruce Almighty",2003,"ok","ok","PASS",102553043,307285628,612120077
+"1013","Charlie&#39;s Angels: Full Throttle",2003,"ok","ok","PASS",151930435,127639706,287654957
+"1014","Cold Mountain",2003,"ok","ok","PASS",101286957,121079205,204640944
+"1015","Cradle 2 the Grave",2003,"notalk","notalk","FAIL",31652174,43879701,71451544
+"1016","Daddy Day Care",2003,"ok","ok","PASS",75965217,131861413,207999839
+"1017","Daredevil",2003,"nowomen-disagree","nowomen","FAIL",101286957,129829011,231418562
+"1018","Darkness Falls",2003,"notalk","notalk","FAIL",8862609,41198066,41198066
+"1019","Dreamcatcher",2003,"nowomen","nowomen","FAIL",86093913,42648478,95824131
+"1020","Final Destination 2",2003,"ok","ok","PASS",32918261,59375255,114450037
+"1021","Finding Nemo",2003,"notalk-disagree","notalk","FAIL",119012174,481783272,1147664217
+"1022","Freaky Friday",2003,"ok","ok","PASS",32918261,139551191,203615191
+"1023","Girl with a Pearl Earring",2003,"ok","ok","PASS",15193043,14730114,54798208
+"1024","Goodbye Lenin!",2003,"ok-disagree","ok","PASS",8102957,5145199,100507729
+"1025","Holes",2003,"men-disagree","men","FAIL",25321739,85313907,91644342
+"1026","Hollywood Homicide",2003,"notalk","notalk","FAIL",94956522,38245683,64706900
+"1027","House of Sand and Fog",2003,"ok","ok","PASS",20890435,16466075,20457336
+"1028","How to Lose a Guy in 10 Days",2003,"men-disagree","men","FAIL",63304348,133961521,224198644
+"1029","Hulk",2003,"notalk","notalk","FAIL",173453913,167347872,310481535
+"1030","Identity",2003,"notalk","notalk","FAIL",35450435,66002713,104051689
+"1031","In the Cut",2003,"ok","ok","PASS",15193043,5972708,29998216
+"1032","Jeepers Creepers II",2003,"ok","ok","PASS",31652174,45102830,45102830
+"1033","Kill Bill: Vol. 1",2003,"ok-disagree","ok","PASS",69634783,88750338,228019903
+"1034","Lara Croft Tomb Raider: The Cradle of Life",2003,"nowomen-disagree","nowomen","FAIL",113947826,83123367,198084062
+"1035","Legally Blonde 2: Red, White &amp; Blonde",2003,"ok","ok","PASS",31652174,114756967,158690184
+"1036","Les triplettes de Belleville",2003,"ok","ok","PASS",2532174,9244066,18282439
+"1037","Lost In Translation",2003,"dubious-disagree","dubious","FAIL",5064348,56449060,142498954
+"1038","Love Actually",2003,"ok-disagree","ok","PASS",56973913,75297075,313948928
+"1039","Master and Commander: The Far Side of the World",2003,"nowomen","nowomen","FAIL",170921739,118918972,269565280
+"1040","Mona Lisa Smile",2003,"ok","ok","PASS",82295652,80780273,178778023
+"1041","Monster",2003,"ok","ok","PASS",6330435,43641017,73437720
+"1042","Mystic River",2003,"ok","ok","PASS",37982609,114118990,198566990
+"1043","Peter Pan",2003,"ok","ok","PASS",126608696,61301208,120601727
+"1044","Pirates of the Caribbean: The Curse of the Black Pearl",2003,"men-disagree","men","FAIL",158260870,386677167,803907108
+"1045","Pride and Prejudice",2003,"ok","ok","PASS",35450435,48583127,153093346
+"1046","S.W.A.T.",2003,"ok","ok","PASS",88626087,147977201,262275924
+"1047","Scary Movie 3",2003,"ok","ok","PASS",56973913,139269669,196496696
+"1048","Secondhand Lions",2003,"notalk","notalk","FAIL",37982609,53265467,60648814
+"1049","Shanghai Knights",2003,"notalk","notalk","FAIL",63304348,76560557,111816793
+"1050","Shattered Glass",2003,"men","men","FAIL",7596522,2795488,3713077
+"1051","Sinbad: Legend of the Seven Seas",2003,"men","men","FAIL",75965217,33530353,102259164
+"1052","Something&#39;s Gotta Give",2003,"dubious","dubious","FAIL",101286957,157862359,337646706
+"1053","Spy Kids 3-D: Game Over",2003,"ok","ok","PASS",50643478,141498677,212515222
+"1054","Swimming Pool",2003,"ok","ok","PASS",9875478,12825598,28412666
+"1055","Terminator 3: Rise of the Machines",2003,"ok","ok","PASS",215234783,190366677,548289460
+"1056","The Core",2003,"ok","ok","PASS",107617391,39389560,93858357
+"1057","The Italian Job",2003,"notalk-disagree","notalk","FAIL",75965217,134364760,223164081
+"1058","The Jungle Book 2",2003,"nowomen-disagree","nowomen","FAIL",25321739,60647568,171812557
+"1059","The Last Samurai",2003,"nowomen","nowomen","FAIL",177252174,140675650,578361911
+"1060","The League of Extraordinary Gentlemen",2003,"nowomen","nowomen","FAIL",98754783,84150728,226965337
+"1061","The Lord of the Rings: The Return of the King",2003,"notalk","notalk","FAIL",119012174,478385772,1445122625
+"1062","The Matrix Reloaded",2003,"ok-disagree","ok","PASS",160793043,356471453,935102616
+"1063","The Matrix Revolutions",2003,"ok-disagree","ok","PASS",139269565,176314964,537149747
+"1064","The Missing",2003,"ok","ok","PASS",82295652,34058165,48432173
+"1065","The School of Rock",2003,"dubious","dubious","FAIL",25321739,102883716,166061455
+"1066","Thirteen",2003,"ok","ok","PASS",2532174,5825321,12035418
+"1067","Timeline",2003,"notalk","notalk","FAIL",101286957,24664310,33808553
+"1068","Undead",2003,"ok","ok","PASS",949565,52158,290250
+"1069","Underworld",2003,"dubious","dubious","FAIL",27853913,65799413,121175229
+"1070","Wrong Turn",2003,"ok","ok","PASS",12660870,19520239,36272829
+"1071","X2 (X-Men 2)",2003,"ok-disagree","ok","PASS",158260870,272145004,516198274
+"1072","25th Hour",2002,"men","men","FAIL",5828306,16946895,32825657
+"1073","28 Days Later...",2002,"ok","ok","PASS",10361434,58367141,107442412
+"1074","8 femmes",2002,"ok-disagree","ok","PASS",10361434,3984522,54885065
+"1075","8 Mile",2002,"notalk","notalk","FAIL",53102348,151178596,314630213
+"1076","About Schmidt",2002,"notalk","notalk","FAIL",38855376,84193406,137060380
+"1077","Adaptation",2002,"dubious","dubious","FAIL",23960815,29139615,29139615
+"1078","All or Nothing",2002,"ok","ok","PASS",11656613,238643,238643
+"1079","Antwone Fisher",2002,"notalk","notalk","FAIL",16189740,27299975,30265212
+"1080","Austin Powers in Goldmember",2002,"notalk","notalk","FAIL",81596291,276025731,379148984
+"1081","Bend It Like Beckham",2002,"ok","ok","PASS",7253004,42149599,99379590
+"1082","Blade II",2002,"notalk","notalk","FAIL",69939678,105786208,199896148
+"1083","Blue Crush",2002,"ok","ok","PASS",38855376,51960544,66855105
+"1084","Cabin Fever",2002,"ok","ok","PASS",1942769,27403645,39310844
+"1085","Carrie",2002,"ok","ok","PASS",38855376,45676592,110092382
+"1086","Catch Me If You Can",2002,"notalk-disagree","notalk","FAIL",67349319,213195306,454746230
+"1087","Chicago",2002,"ok","ok","PASS",38855376,221070926,398510478
+"1088","Crossroads",2002,"ok","ok","PASS",15542151,48165989,73825215
+"1089","Death to Smoochy",2002,"men","men","FAIL",64758961,10822278,10845911
+"1090","Die Another Day",2002,"men-disagree","men","FAIL",183915449,208448913,559442481
+"1091","Drumline",2002,"notalk","notalk","FAIL",25903584,73045727,73045727
+"1092","Equilibrium",2002,"notalk","notalk","FAIL",25903584,1541287,6923858
+"1093","Far from Heaven",2002,"ok","ok","PASS",17484919,20595744,37596351
+"1094","Frida",2002,"men-disagree","men","FAIL",15542151,33525714,72155308
+"1095","Funny Ha Ha",2002,"ok","ok","PASS",38855,99819,99819
+"1096","Gangs of New York",2002,"notalk","notalk","FAIL",125632384,100674928,246602123
+"1097","Gerry",2002,"nowomen","nowomen","FAIL",9066255,329860,329860
+"1098","Harry Potter and the Chamber of Secrets",2002,"ok-disagree","ok","PASS",129517922,339321257,1138436153
+"1099","High Crimes",2002,"ok","ok","PASS",54397527,53805898,82607955
+"1100","I Spy",2002,"notalk","notalk","FAIL",90662545,43467687,78073173
+"1101","Ice Age",2002,"nowomen","nowomen","FAIL",84186649,228453301,500089862
+"1102","Igby Goes Down",2002,"men","men","FAIL",11656613,6187673,6187673
+"1103","Insomnia",2002,"notalk","notalk","FAIL",59578244,87117875,147161499
+"1104","Lilo and Stitch",2002,"ok-disagree","ok","PASS",103614337,188800252,318355051
+"1105","Maid in Manhattan",2002,"ok","ok","PASS",71234857,121659935,212199853
+"1106","May",2002,"ok","ok","PASS",2266564,188500,644143
+"1107","Men in Black II",2002,"notalk","notalk","FAIL",181325090,246626476,572168477
+"1108","Minority Report",2002,"notalk-disagree","notalk","FAIL",132108280,170995666,464742312
+"1109","Mr Deeds",2002,"men","men","FAIL",64758961,163572654,221824742
+"1110","My Big Fat Greek Wedding",2002,"ok","ok","PASS",6475896,312705749,456217193
+"1111","Panic Room",2002,"ok","ok","PASS",62168602,123441416,254254517
+"1112","Phone Booth",2002,"notalk","notalk","FAIL",14246971,60311590,126716628
+"1113","Queen of the Damned",2002,"ok","ok","PASS",45331273,39254038,39254038
+"1114","Rabbit-Proof Fence",2002,"ok","ok","PASS",9066255,8029593,21845695
+"1115","Real Women Have Curves",2002,"ok","ok","PASS",3885538,7580935,7580935
+"1116","Red Dragon",2002,"notalk","notalk","FAIL",101023979,120393928,267396769
+"1117","Reign of Fire",2002,"notalk","notalk","FAIL",77710753,55772984,106399210
+"1118","Resident Evil",2002,"ok","ok","PASS",45331273,51962213,134423285
+"1119","Scooby-Doo",2002,"ok","ok","PASS",108795054,198543415,357850459
+"1120","Signs",2002,"notalk","notalk","FAIL",91572563,295256424,528777236
+"1121","Snow Dogs",2002,"notalk","notalk","FAIL",41445735,105104690,151403896
+"1122","Solaris",2002,"notalk","notalk","FAIL",60873423,19388882,19388882
+"1123","Spider-Man",2002,"notalk","notalk","FAIL",180029911,522872106,1064074398
+"1124","Spirit: Stallion of the Cimarron",2002,"nowomen-disagree","nowomen","FAIL",103614337,94826948,137956416
+"1125","Spun",2002,"ok","ok","PASS",5828306,531336,1324514
+"1126","Spy Kids 2: Island of Lost Dreams",2002,"ok","ok","PASS",49216810,111186338,155060534
+"1127","Star Trek: Nemesis",2002,"notalk","notalk","FAIL",77710753,56022212,87182173
+"1128","Star Wars: Episode II - Attack of the Clones",2002,"dubious-disagree","dubious","FAIL",148945610,402382056,850538512
+"1129","The Adventures of Pluto Nash",2002,"men","men","FAIL",129517922,5713168,9189290
+"1130","The Banger Sisters",2002,"ok","ok","PASS",12951792,39252065,49303870
+"1131","The Bourne Identity",2002,"notalk","notalk","FAIL",77710753,157324072,276261727
+"1132","The Dangerous Lives of Altar Boys",2002,"notalk","notalk","FAIL",15542151,2304492,2304492
+"1133","The Good Girl",2002,"ok","ok","PASS",10361434,18156206,21831701
+"1134","The Hours",2002,"ok","ok","PASS",32379480,53977881,125671845
+"1135","The Importance of Being Earnest",2002,"ok","ok","PASS",19427688,10851194,10851194
+"1136","The Lord of the Rings: The Two Towers",2002,"notalk-disagree","notalk","FAIL",121746846,443662324,1200694576
+"1137","The Powerpuff Girls",2002,"ok","ok","PASS",32379480,14780124,21274227
+"1138","The Quiet American",2002,"men","men","FAIL",25903584,16821330,34125645
+"1139","The Ring",2002,"ok","ok","PASS",62168602,167199897,321487424
+"1140","The Rules of Attraction",2002,"dubious","dubious","FAIL",5180717,8452031,15281897
+"1141","The Santa Clause 2",2002,"notalk","notalk","FAIL",84186649,180322432,223840454
+"1142","The Sweetest Thing",2002,"ok","ok","PASS",55692706,31641581,57808305
+"1143","The Transporter",2002,"nowomen","nowomen","FAIL",27198764,32763432,56895840
+"1144","The Tuxedo",2002,"nowomen","nowomen","FAIL",77710753,65517936,135255080
+"1145","Treasure Planet",2002,"notalk","notalk","FAIL",129517922,49372949,118897452
+"1146","Tuck Everlasting",2002,"ok","ok","PASS",19427688,24818223,25054743
+"1147","Two Weeks Notice",2002,"ok","ok","PASS",77710753,120911349,257796757
+"1148","We Were Soldiers",2002,"ok","ok","PASS",90662545,101179654,148502998
+"1149","Whale Rider",2002,"ok","ok","PASS",5569271,26913392,51667906
+"1150","White Oleander",2002,"ok","ok","PASS",20722867,21186244,28050694
+"1151","xXx",2002,"notalk","notalk","FAIL",90662545,183824786,346071886
+"1152","A Beautiful Mind",2001,"notalk","notalk","FAIL",102635985,224626742,418002230
+"1153","A Knight&#39;s Tale",2001,"men","men","FAIL",53949684,73797860,132403823
+"1154","Along Came A Spider",2001,"ok","ok","PASS",36843687,97449838,138373157
+"1155","American Outlaws",2001,"notalk","notalk","FAIL",46054609,17454678,17454678
+"1156","Antitrust",2001,"men","men","FAIL",39475379,14428526,23507863
+"1157","Artificial Intelligence: AI",2001,"notalk","notalk","FAIL",118426136,103447452,310408061
+"1158","Atlantis: The Lost Empire",2001,"notalk-disagree","notalk","FAIL",118426136,110600487,244811851
+"1159","Black Hawk Down",2001,"nowomen-disagree","nowomen","FAIL",125005366,142951853,210128869
+"1160","Blow",2001,"notalk","notalk","FAIL",39475379,69727697,109586673
+"1161","Bridget Jones&#39;s Diary",2001,"ok","ok","PASS",32896149,94083718,370446373
+"1162","Don&#39;t Say A Word",2001,"ok","ok","PASS",65792298,72368206,137490616
+"1163","Donnie Darko",2001,"dubious-disagree","dubious","FAIL",5921307,1671811,10127447
+"1164","Dr. Dolittle 2",2001,"ok","ok","PASS",94740909,148625750,231722738
+"1165","Evolution",2001,"ok","ok","PASS",105267677,50411551,129402834
+"1166","From Hell",2001,"dubious","dubious","FAIL",46054609,41578506,90414888
+"1167","Ghost World",2001,"ok","ok","PASS",7237153,8181731,11528926
+"1168","Gosford Park",2001,"ok","ok","PASS",23685227,54344576,54344576
+"1169","Hannibal",2001,"ok","ok","PASS",114478598,217235991,460678038
+"1170","Harry Potter and the Sorcerer&#39;s Stone",2001,"ok","ok","PASS",164480745,417880504,1282627914
+"1171","Hedwig and the Angry Inch",2001,"ok-disagree","ok","PASS",7895076,4036110,4794811
+"1172","High Heels and Low Lifes",2001,"ok","ok","PASS",13158460,298423,298423
+"1173","Impostor",2001,"nowomen","nowomen","FAIL",52633838,8045394,8045394
+"1174","Jason X",2001,"ok","ok","PASS",18421843,17265945,22305955
+"1175","Jay and Silent Bob Strike Back",2001,"ok","ok","PASS",28948611,39553522,44426118
+"1176","Jeepers Creepers",2001,"ok","ok","PASS",13158460,49876055,77554691
+"1177","Josie and the Pussycats",2001,"ok","ok","PASS",28948611,18754529,18754529
+"1178","Kate &amp; Leopold",2001,"men-disagree","men","FAIL",63160606,61970361,93343188
+"1179","Kiss of the Dragon",2001,"notalk","notalk","FAIL",32896149,48467177,48467177
+"1180","Kissing Jessica Stein",2001,"ok","ok","PASS",1973769,9244768,11621399
+"1181","L.I.E.",2001,"notalk","notalk","FAIL",921092,1501334,1501334
+"1182","Lara Croft: Tomb Raider",2001,"nowomen","nowomen","FAIL",123689520,172565543,361389438
+"1183","Legally Blonde",2001,"ok","ok","PASS",23685227,126970485,186599109
+"1184","Lovely and Amazing",2001,"ok","ok","PASS",328961,5540210,6178924
+"1185","Monkeybone",2001,"dubious-disagree","dubious","FAIL",98688447,7118091,7118091
+"1186","Monsoon Wedding",2001,"ok","ok","PASS",1579015,18259960,35561527
+"1187","Monsters, Inc.",2001,"notalk-disagree","notalk","FAIL",151322285,380836644,736554932
+"1188","Moulin Rouge!",2001,"ok","ok","PASS",69739836,75511622,235816959
+"1189","Mulholland Dr.",2001,"ok","ok","PASS",19737689,9499853,15684329
+"1190","Nowhere in Africa",2001,"ok","ok","PASS",8552999,8123355,8123355
+"1191","Ocean&#39;s Eleven",2001,"notalk","notalk","FAIL",111846906,241348715,593089313
+"1192","Osmosis Jones",2001,"dubious","dubious","FAIL",92109217,17891440,17891440
+"1193","Pearl Harbor",2001,"men-disagree","men","FAIL",199350663,261247866,591130447
+"1194","Save the Last Dance",2001,"ok","ok","PASS",17105997,119792347,173215693
+"1195","Shallow Hal",2001,"ok","ok","PASS",52633838,93209654,93209654
+"1196","Shaolin Soccer",2001,"nowomen","nowomen","FAIL",13158460,643280,56286669
+"1197","Shrek",2001,"notalk-disagree","notalk","FAIL",65792298,352192764,647149877
+"1198","Someone Like You...",2001,"ok","ok","PASS",30264457,35972640,50903377
+"1199","Spy Kids",2001,"ok","ok","PASS",46054609,148285394,260132301
+"1200","Super Troopers",2001,"notalk","notalk","FAIL",3947538,24333100,30325173
+"1201","The Fast and the Furious",2001,"notalk","notalk","FAIL",50002146,190155939,271738388
+"1202","The Glass House",2001,"ok","ok","PASS",28948611,23621318,30082587
+"1203","The Legend of Suriyothai",2001,"ok","ok","PASS",11842614,597730,597730
+"1204","The Lord of the Rings: The Fellowship of the Ring",2001,"notalk-disagree","notalk","FAIL",143427209,415208284,1167441808
+"1205","The Majestic",2001,"notalk","notalk","FAIL",94740909,36575310,49089389
+"1206","The One",2001,"nowomen","nowomen","FAIL",64476452,57773198,57773198
+"1207","The Others",2001,"ok","ok","PASS",22369381,127008987,276257960
+"1208","The Princess Diaries",2001,"ok","ok","PASS",39475379,142433448,217555094
+"1209","The Royal Tenenbaums",2001,"ok","ok","PASS",36843687,68889320,93992029
+"1210","The Wedding Planner",2001,"ok","ok","PASS",36843687,79478222,124648152
+"1211","Thir13en Ghosts",2001,"notalk","notalk","FAIL",25001073,55091786,90093288
+"1212","Training Day",2001,"notalk","notalk","FAIL",59213068,100347776,137512958
+"1213","Valentine",2001,"men","men","FAIL",13158460,26822383,26822383
+"1214","Vanilla Sky",2001,"notalk","notalk","FAIL",92109217,132393654,266756984
+"1215","Zoolander",2001,"ok-disagree","ok","PASS",36843687,59439723,79978408
+"1216","28 Days",2000,"ok","ok","PASS",58175060,50105659,83966868
+"1217","Almost Famous",2000,"ok","ok","PASS",81174503,43999763,64088881
+"1218","American Psycho",2000,"notalk-disagree","notalk","FAIL",10823267,20388715,38793859
+"1219","Beautiful Creatures",2000,"ok","ok","PASS",67645419,26316961,75682603
+"1220","Best in Show",2000,"ok","ok","PASS",8117450,25192844,27998998
+"1221","Billy Elliot",2000,"ok","ok","PASS",6764542,29757576,147846184
+"1222","Boiler Room",2000,"notalk","notalk","FAIL",12176175,22950688,38928095
+"1223","Bring It On",2000,"ok","ok","PASS",13529084,92476091,122375366
+"1224","Cast Away",2000,"notalk","notalk","FAIL",114997212,316082883,578003746
+"1225","Cecil B. Demented",2000,"ok","ok","PASS",13529084,1727642,2643423
+"1226","Center Stage",2000,"ok","ok","PASS",24352351,23271276,23271276
+"1227","Charlie&#39;s Angels",2000,"ok","ok","PASS",121761754,169526922,351399133
+"1228","Chicken Run",2000,"ok","ok","PASS",56822152,144482383,308184297
+"1229","Chocolat",2000,"ok","ok","PASS",33822710,96475572,206318992
+"1230","Coyote Ugly",2000,"men-disagree","men","FAIL",60880877,82238253,156648214
+"1231","Dancer in the Dark",2000,"ok","ok","PASS",16911355,5624704,61635111
+"1232","Dude, Where&#39;s My Car",2000,"men","men","FAIL",18940717,63220562,99006237
+"1233","Dune",2000,"ok","ok","PASS",60880877,37133914,37133914
+"1234","Erin Brockovich",2000,"ok","ok","PASS",67645419,169855868,348786874
+"1235","Final Destination",2000,"notalk","notalk","FAIL",31116893,72113147,151575620
+"1236","Gladiator",2000,"nowomen","nowomen","FAIL",139349563,253918993,619204256
+"1237","Gone in Sixty Seconds",2000,"notalk","notalk","FAIL",139755436,137513677,314744675
+"1238","High Fidelity",2000,"men","men","FAIL",27058168,36903356,64779503
+"1239","Hollow Man",2000,"ok","ok","PASS",121761754,99045530,258676083
+"1240","Little Nicky",2000,"notalk","notalk","FAIL",108232671,53362591,78834500
+"1241","Love &amp; Basketball",2000,"ok","ok","PASS",20293626,37125324,37488584
+"1242","Meet the Parents",2000,"men","men","FAIL",74409961,224887250,412095756
+"1243","Memento",2000,"notalk","notalk","FAIL",6764542,34559865,53741710
+"1244","Miss Congeniality",2000,"ok","ok","PASS",60880877,144500988,288738993
+"1245","Mission to Mars",2000,"notalk","notalk","FAIL",121761754,82357777,143408288
+"1246","O Brother, Where Art Thou?",2000,"nowomen-disagree","nowomen","FAIL",35175618,61566286,102501499
+"1247","Pitch Black",2000,"ok","ok","PASS",31116893,53081479,71950493
+"1248","Pokemon: The Movie 2000",2000,"men","men","FAIL",40587251,59185579,181217915
+"1249","Red Planet",2000,"nowomen","nowomen","FAIL",108232671,23650043,45273684
+"1250","Remember the Titans",2000,"notalk-disagree","notalk","FAIL",40587251,156470282,184951617
+"1251","Requiem for a Dream",2000,"ok","ok","PASS",6088088,4918474,9998139
+"1252","Return to Me",2000,"dubious-disagree","dubious","FAIL",32469801,44189098,44189098
+"1253","Romeo Must Die",2000,"nowomen","nowomen","FAIL",33822710,75726795,123164396
+"1254","Rugrats in Paris:",2000,"ok","ok","PASS",40587251,103499437,139734889
+"1255","Saving Grace",2000,"ok","ok","PASS",5411634,16476533,37593061
+"1256","Scream 3",2000,"ok","ok","PASS",54116335,120595650,218952089
+"1257","Sexy Beast",2000,"men","men","FAIL",5817506,9397377,13738212
+"1258","Shanghai Noon",2000,"notalk-disagree","notalk","FAIL",74409961,77024193,96313324
+"1259","Snatch.",2000,"nowomen-disagree","nowomen","FAIL",13529084,40713217,113093815
+"1260","Songcatcher",2000,"ok","ok","PASS",2435235,4127634,4127634
+"1261","The Beach",2000,"notalk","notalk","FAIL",67645419,53816800,53816800
+"1262","The Cell",2000,"men","men","FAIL",47351793,82907528,116230018
+"1263","The Emperor&#39;s New Groove",2000,"ok-disagree","ok","PASS",135290838,120810082,229042753
+"1264","The Gift",2000,"dubious","dubious","FAIL",13529084,16246592,60295888
+"1265","The Patriot",2000,"dubious","dubious","FAIL",148819922,153325570,291281175
+"1266","The Road to El Dorado",2000,"nowomen","nowomen","FAIL",128526296,68731346,88886081
+"1267","The Way of the Gun",2000,"men","men","FAIL",12176175,8182195,17671601
+"1268","The Whole Nine Yards",2000,"ok","ok","PASS",32469801,77470905,115711368
+"1269","Thirteen days",2000,"notalk","notalk","FAIL",108232671,46765640,90042204
+"1270","Titan A.E.",2000,"ok","ok","PASS",101468129,30781343,49722060
+"1271","Unbreakable",2000,"nowomen-disagree","nowomen","FAIL",99091212,128525137,335655410
+"1272","Urbania",2000,"notalk","notalk","FAIL",304404,1396303,1396303
+"1273","Vertical Limit",2000,"notalk","notalk","FAIL",101468129,92638183,288845939
+"1274","What Lies Beneath",2000,"ok","ok","PASS",121761754,210329023,390576517
+"1275","What Women Want",2000,"notalk-disagree","notalk","FAIL",87939045,247318583,503417209
+"1276","Where the Heart Is",2000,"ok","ok","PASS",20293626,45689304,55282615
+"1277","Wo hu cang long (Crouching Tiger, Hidden Dragon)",2000,"ok","ok","PASS",20293626,173264011,288440067
+"1278","X-Men",2000,"notalk-disagree","notalk","FAIL",101468129,212812106,400920487
+"1279","10 Things I Hate About You",1999,"ok","ok","PASS",18180006,53390436,84486720
+"1280","8MM",1999,"notalk","notalk","FAIL",55938481,50964770,134810098
+"1281","American Beauty",1999,"ok","ok","PASS",20976930,181881240,498213351
+"1282","American Pie",1999,"men","men","FAIL",16781544,142364760,328251410
+"1283","Analyze This",1999,"notalk","notalk","FAIL",41953861,149475534,247367876
+"1284","Anna and the King",1999,"men","men","FAIL",104884652,54891212,54891212
+"1285","Anywhere But Here",1999,"dubious","dubious","FAIL",32164627,26086372,26086372
+"1286","Austin Powers: The Spy Who Shagged Me",1999,"notalk-disagree","notalk","FAIL",48946171,288139235,433988407
+"1287","Being John Malkovich",1999,"ok","ok","PASS",18180006,31967340,45285530
+"1288","Black and White",1999,"ok","ok","PASS",13984620,7329780,7329780
+"1289","Blue Streak",1999,"notalk","notalk","FAIL",50344633,95386564,164246788
+"1290","Boys Don&#39;t Cry",1999,"ok-disagree","ok","PASS",2796924,16139101,29005501
+"1291","But I&#39;m a Cheerleader",1999,"ok","ok","PASS",1678154,3084486,3676824
+"1292","Carrie 2: The Rage",1999,"ok","ok","PASS",29367703,24837027,24837027
+"1293","Cruel Intentions",1999,"ok","ok","PASS",15383082,53463308,106008618
+"1294","Dick",1999,"ok","ok","PASS",18180006,8777963,8777963
+"1295","Dogma",1999,"dubious-disagree","dubious","FAIL",13984620,42864850,61460819
+"1296","Drop Dead Gorgeous",1999,"ok","ok","PASS",13984620,14783713,14783713
+"1297","Election",1999,"ok","ok","PASS",11886927,20898032,24057538
+"1298","Eyes Wide Shut",1999,"ok","ok","PASS",90900032,77882040,120627912
+"1299","Fight Club",1999,"notalk-disagree","notalk","FAIL",90900032,51785192,141040144
+"1300","Flawless",1999,"notalk","notalk","FAIL",37758475,6272780,6272780
+"1301","For Love of the Game",1999,"men","men","FAIL",69923101,49209977,64486776
+"1302","Galaxy Quest",1999,"notalk-disagree","notalk","FAIL",62930791,99883369,126593993
+"1303","Girl, Interrupted",1999,"ok","ok","PASS",33563089,40375263,40375263
+"1304","Go!",1999,"ok","ok","PASS",9090003,23599429,39693164
+"1305","Jawbreaker",1999,"ok","ok","PASS",4195386,4302816,4302816
+"1306","Magnolia",1999,"notalk-disagree","notalk","FAIL",51743095,31396836,67751013
+"1307","Muppets From Space",1999,"ok","ok","PASS",33563089,22801624,22801624
+"1308","Mystery Men",1999,"nowomen-disagree","nowomen","FAIL",95095418,41621042,46795352
+"1309","Notting Hill",1999,"ok","ok","PASS",58735405,162347007,508660113
+"1310","Office Space",1999,"notalk","notalk","FAIL",13984620,15142285,17939209
+"1311","Payback",1999,"notalk","notalk","FAIL",69923101,114011185,226027993
+"1312","Pocket Monsters: Mewtwo Strikes Back!",1999,"notalk-disagree","notalk","FAIL",41953861,119910654,228850846
+"1313","Ravenous",1999,"notalk","notalk","FAIL",16781544,2884196,2884196
+"1314","Sleepy Hollow",1999,"ok","ok","PASS",97892342,141340236,289577211
+"1315","South Park: Bigger Longer &amp; Uncut",1999,"dubious-disagree","dubious","FAIL",29367703,72772612,72772612
+"1316","Star Wars: Episode I - The Phantom Menace",1999,"ok","ok","PASS",160823133,663632711,1408313741
+"1317","Stuart Little",1999,"notalk-disagree","notalk","FAIL",146838513,195805974,417860454
+"1318","Tarzan",1999,"men-disagree","men","FAIL",202776994,239265412,626779240
+"1319","The 13th Warrior",1999,"dubious-disagree","dubious","FAIL",174807753,45728169,86283567
+"1320","The Blair Witch Project",1999,"ok","ok","PASS",839077,196538593,347238122
+"1321","The Boondock Saints",1999,"nowomen-disagree","nowomen","FAIL",9789234,42613,575990
+"1322","The Green Mile",1999,"notalk-disagree","notalk","FAIL",83907722,191311527,406534833
+"1323","The Haunting",1999,"ok","ok","PASS",111876962,127524221,251987342
+"1324","The Iron Giant",1999,"nowomen-disagree","nowomen","FAIL",69923101,32387409,43819293
+"1325","The Matrix",1999,"ok-disagree","ok","PASS",90900032,239808171,643684004
+"1326","The Mummy",1999,"notalk","notalk","FAIL",111876962,217300705,582299294
+"1327","The Sixth Sense",1999,"dubious-disagree","dubious","FAIL",55938481,410457404,940894052
+"1328","The Talented Mr. Ripley",1999,"dubious","dubious","FAIL",55938481,113683964,180110910
+"1329","Three to Tango",1999,"notalk","notalk","FAIL",27969241,14782268,14782268
+"1330","Topsy-Turvy",1999,"ok","ok","PASS",27969241,8672922,8672922
+"1331","Toy Story 2",1999,"notalk-disagree","notalk","FAIL",125861583,343814937,715115132
+"1332","Virus",1999,"dubious","dubious","FAIL",104884652,19593418,42830263
+"1333","Wild Wild West",1999,"men","men","FAIL",244730855,159152923,309380824
+"1334","Wing Commander",1999,"men","men","FAIL",41953861,16191424,16191424
+"1335","54",1998,"notalk","notalk","FAIL",18578720,23948203,23948203
+"1336","A Bug&#39;s Life",1998,"ok","ok","PASS",64310954,232660690,518911253
+"1337","American History X",1998,"men-disagree","men","FAIL",14291323,9603575,9603575
+"1338","Armageddon",1998,"notalk","notalk","FAIL",200078524,288081893,792596781
+"1339","Beloved",1998,"ok","ok","PASS",75744013,32659228,32659228
+"1340","Blade",1998,"notalk","notalk","FAIL",64310954,100242021,187556021
+"1341","Bride of Chucky",1998,"notalk","notalk","FAIL",35728308,46309872,72445844
+"1342","Buffalo &#39;66",1998,"notalk","notalk","FAIL",2143698,3402201,3402201
+"1343","Dark City",1998,"notalk-disagree","notalk","FAIL",38586572,20629634,38953947
+"1344","Deep Impact",1998,"ok","ok","PASS",114330585,200742590,499431243
+"1345","Disturbing Behavior",1998,"notalk","notalk","FAIL",21436985,25020345,25020345
+"1346","Elizabeth",1998,"ok","ok","PASS",35728308,42992157,117404137
+"1347","Enemy of the State",1998,"notalk","notalk","FAIL",121476247,159419475,358211780
+"1348","Ever After",1998,"ok","ok","PASS",37157440,93902242,93902242
+"1349","Fear and Loathing in Las Vegas",1998,"notalk","notalk","FAIL",26438948,15263526,19596124
+"1350","Festen (The Celebration)",1998,"dubious-disagree","dubious","FAIL",1857872,2354896,2354896
+"1351","Get Real",1998,"men","men","FAIL",2858265,1646948,1646948
+"1352","Godzilla",1998,"dubious","dubious","FAIL",178641539,194811162,537353750
+"1353","Halloween H20: 20 Years Later",1998,"ok","ok","PASS",24295249,78661926,78661926
+"1354","Happiness",1998,"ok","ok","PASS",4287397,3925045,8212442
+"1355","Hope Floats",1998,"ok","ok","PASS",42873969,85905591,116515728
+"1356","Little Voice",1998,"ok","ok","PASS",8574794,6566863,31136839
+"1357","Lock, Stock and Two Smoking Barrels",1998,"notalk","notalk","FAIL",1929329,5570142,40524745
+"1358","Lost in Space",1998,"ok","ok","PASS",114330585,98778237,194429617
+"1359","Mercury Rising",1998,"notalk","notalk","FAIL",85747939,47137546,47137546
+"1360","Mulan",1998,"dubious-disagree","dubious","FAIL",128621908,172382303,433741657
+"1361","Out of Sight",1998,"men","men","FAIL",68598351,53681880,110847172
+"1362","Pi",1998,"men","men","FAIL",97181,4603452,6686214
+"1363","Practical Magic",1998,"ok","ok","PASS",85747939,66955646,97662611
+"1364","Primary Colors",1998,"ok","ok","PASS",92893600,55761862,55761862
+"1365","Quest for Camelot",1998,"ok","ok","PASS",57165293,32544916,54553553
+"1366","Rounders",1998,"notalk","notalk","FAIL",17149588,32758425,32758425
+"1367","Run Lola Run",1998,"notalk-disagree","notalk","FAIL",2500982,10385968,20769827
+"1368","Rush Hour",1998,"ok-disagree","ok","PASS",50019631,201774709,350566156
+"1369","Rushmore",1998,"notalk-disagree","notalk","FAIL",14291323,24445621,27268466
+"1370","Safe Men",1998,"nowomen","nowomen","FAIL",1429132,30312,30312
+"1371","Saving Private Ryan",1998,"nowomen","nowomen","FAIL",92893600,309171460,693179313
+"1372","Shakespeare in Love",1998,"ok","ok","PASS",37157440,143367401,399442481
+"1373","Six Days Seven Nights",1998,"notalk","notalk","FAIL",114330585,106240687,235521005
+"1374","Sliding Doors",1998,"ok","ok","PASS",8574794,17022681,84046055
+"1375","Slums of Beverly Hills",1998,"ok","ok","PASS",7145662,7864191,7864191
+"1376","Small Soldiers",1998,"notalk","notalk","FAIL",57165293,78807819,102531416
+"1377","Smoke Signals",1998,"ok","ok","PASS",2858265,9602769,11085232
+"1378","Sphere",1998,"notalk","notalk","FAIL",104326659,52975497,71697130
+"1379","Star Trek: Insurrection",1998,"ok","ok","PASS",100039262,100307450,168351786
+"1380","Stepmom",1998,"ok","ok","PASS",71456616,130247778,228297140
+"1381","The Avengers",1998,"ok","ok","PASS",85747939,33420854,69434988
+"1382","The Big Lebowski",1998,"notalk-disagree","notalk","FAIL",21436985,25008106,66011004
+"1383","The Faculty",1998,"dubious","dubious","FAIL",21436985,57570196,57570196
+"1384","The Man in the Iron Mask",1998,"notalk-disagree","notalk","FAIL",50019631,81415051,81415051
+"1385","The Mask of Zorro",1998,"notalk-disagree","notalk","FAIL",92893600,134093691,333988221
+"1386","The Negotiator",1998,"notalk","notalk","FAIL",71456616,63890455,70178637
+"1387","The Prince of Egypt",1998,"notalk-disagree","notalk","FAIL",85747939,144932864,312408324
+"1388","The Proposition",1998,"men","men","FAIL",28582646,2720259,7593849
+"1389","The Thin Red Line",1998,"notalk","notalk","FAIL",74314880,52021118,52021118
+"1390","The Truman Show",1998,"notalk-disagree","notalk","FAIL",85747939,179525030,354996466
+"1391","There&#39;s Something About Mary",1998,"ok","ok","PASS",31440911,252219917,514630544
+"1392","Urban Legend",1998,"ok","ok","PASS",20007852,54473818,103714796
+"1393","Vampires (John Carpenter&#39;s)",1998,"nowomen","nowomen","FAIL",28582646,28966833,28966833
+"1394","Velvet Goldmine",1998,"men","men","FAIL",12862191,1506002,6948401
+"1395","Wild Things",1998,"men-disagree","men","FAIL",28582646,42581425,79426456
+"1396","You&#39;ve Got Mail",1998,"ok","ok","PASS",92893600,165524241,358426384
+"1397","A Simple Wish",1997,"ok","ok","PASS",40634668,11849668,11849668
+"1398","Air Bud",1997,"notalk","notalk","FAIL",4353714,35768573,40327947
+"1399","Air Force One",1997,"notalk","notalk","FAIL",123355241,251000935,457529453
+"1400","Alien: Resurrection",1997,"ok","ok","PASS",87074287,69361952,233213967
+"1401","Anastasia",1997,"ok","ok","PASS",76915621,84757254,202885136
+"1402","As Good as It Gets",1997,"ok","ok","PASS",72561906,215476950,455851198
+"1403","Austin Powers: International Man of Mystery",1997,"men","men","FAIL",26122286,78198499,98225585
+"1404","Batman &amp; Robin",1997,"men-disagree","men","FAIL",181404766,155754415,345855898
+"1405","Boogie Nights",1997,"dubious-disagree","dubious","FAIL",21768572,38328318,62565379
+"1406","Cats Don&#39;t Dance",1997,"ok","ok","PASS",46439620,5207916,5207916
+"1407","Chasing Amy",1997,"ok","ok","PASS",362810,17424311,21993652
+"1408","Cinderella",1997,"ok","ok","PASS",4208591,123355241,123355241
+"1409","Clockwatchers",1997,"ok","ok","PASS",2902476,780691,783612
+"1410","Con Air",1997,"notalk-disagree","notalk","FAIL",116099050,146745677,325247966
+"1411","Conspiracy Theory",1997,"men","men","FAIL",116099050,110466780,207213175
+"1412","Contact",1997,"ok","ok","PASS",130611431,146459429,240760405
+"1413","Eve&#39;s Bayou",1997,"ok","ok","PASS",7256191,21541344,21541344
+"1414","Event Horizon",1997,"ok","ok","PASS",87074287,38709226,38709226
+"1415","Fever Pitch",1997,"ok","ok","PASS",58049525,61055139,72665044
+"1416","Flubber",1997,"men","men","FAIL",116099050,134956149,258311390
+"1417","G.I. Jane",1997,"ok","ok","PASS",72561906,69904916,69904916
+"1418","Gattaca",1997,"notalk-disagree","notalk","FAIL",52244573,18188044,18188044
+"1419","George of the Jungle",1997,"ok","ok","PASS",79818097,152762052,253187730
+"1420","Good Will Hunting",1997,"nowomen-disagree","nowomen","FAIL",14512381,200899879,327883215
+"1421","Grosse Pointe Blank",1997,"ok","ok","PASS",21768572,40757090,45090566
+"1422","Hercules",1997,"ok-disagree","ok","PASS",101586669,143835260,363825398
+"1423","I Know What You Did Last Summer",1997,"ok","ok","PASS",24671048,104852087,181767707
+"1424","In the Company of Men",1997,"notalk","notalk","FAIL",36281,4184879,4184879
+"1425","Jackie Brown",1997,"ok","ok","PASS",17414858,57575205,108447385
+"1426","Kiss the Girls",1997,"men","men","FAIL",39183429,87840357,87840357
+"1427","L.A. Confidential",1997,"notalk","notalk","FAIL",50793334,93757206,160514159
+"1428","Liar Liar",1997,"notalk-disagree","notalk","FAIL",65305716,263270001,439305185
+"1429","Men in Black",1997,"notalk","notalk","FAIL",130611431,363811668,853024040
+"1430","Mononoke-hime",1997,"ok","ok","PASS",29024763,3445395,218193652
+"1431","Mortal Kombat: Annihilation",1997,"ok","ok","PASS",43537144,52139221,74488288
+"1432","Must love Dogs",1997,"men","men","FAIL",50793334,63701899,85470471
+"1433","My Best Friend&#39;s Wedding",1997,"men-disagree","men","FAIL",66756954,184036082,433809062
+"1434","Orgazmo",1997,"notalk","notalk","FAIL",1451238,844655,910343
+"1435","Scream 2",1997,"ok","ok","PASS",34829715,147102287,147102287
+"1436","Selena",1997,"ok","ok","PASS",29024763,51446556,51446556
+"1437","Smilla&#39;s Sense of Snow",1997,"ok","ok","PASS",50793334,3224642,3224642
+"1438","Spawn",1997,"ok","ok","PASS",58049525,79789061,127636188
+"1439","Starship Troopers",1997,"ok","ok","PASS",145123812,79482791,175744937
+"1440","The Devil&#39;s Advocate",1997,"ok","ok","PASS",82720573,88536300,222050207
+"1441","The Fifth Element",1997,"notalk-disagree","notalk","FAIL",137867622,92256459,382981741
+"1442","The Game",1997,"notalk","notalk","FAIL",72561906,70044851,70044851
+"1443","The Lost World: Jurassic Park",1997,"dubious","dubious","FAIL",108842859,332459322,1141669701
+"1444","The Peacemaker",1997,"dubious","dubious","FAIL",72561906,59882642,91380645
+"1445","The Postman",1997,"notalk","notalk","FAIL",116099050,25615375,25615375
+"1446","Titanic",1997,"ok","ok","PASS",290247625,955890356,3171930973
+"1447","Volcano",1997,"ok","ok","PASS",130611431,69001723,174293699
+"1448","August",1996,"dubious","dubious","FAIL",5049561,18767,18767
+"1449","Bound",1996,"ok","ok","PASS",6683242,5646983,10412962
+"1450","Broken Arrow",1996,"nowomen","nowomen","FAIL",96535720,104920957,220318272
+"1451","Chain Reaction",1996,"notalk","notalk","FAIL",81684071,31524414,89420791
+"1452","DragonHeart",1996,"men","men","FAIL",84654401,76285021,154998762
+"1453","Emma",1996,"ok","ok","PASS",8762473,33017679,56186252
+"1454","Escape from L.A.",1996,"notalk","notalk","FAIL",74258246,37763082,37763082
+"1455","Eye for an Eye",1996,"ok","ok","PASS",29703299,39791578,39791578
+"1456","Fargo",1996,"ok-disagree","ok","PASS",10396154,36487162,76047227
+"1457","Freeway",1996,"ok","ok","PASS",4455495,438856,438856
+"1458","From Dusk Till Dawn",1996,"notalk","notalk","FAIL",29703299,38211750,38211750
+"1459","Hamlet",1996,"notalk-disagree","notalk","FAIL",2970330,2342531,3593608
+"1460","Harriet the Spy",1996,"ok","ok","PASS",19307144,39460903,39460903
+"1461","Independence Day",1996,"ok","ok","PASS",111387369,454711839,1213975115
+"1462","Jingle All the Way",1996,"notalk","notalk","FAIL",89109896,89989691,192822510
+"1463","Kingpin",1996,"notalk","notalk","FAIL",37129123,37163912,47857099
+"1464","Love and Other Catastrophes",1996,"ok","ok","PASS",371291,315278,1103798
+"1465","Mars Attacks!",1996,"ok","ok","PASS",118813194,56096190,150552679
+"1466","Mission: Impossible",1996,"notalk-disagree","notalk","FAIL",118813194,268787949,679757008
+"1467","Romeo + Juliet",1996,"dubious","dubious","FAIL",21534891,68820654,219124769
+"1468","Scream",1996,"ok","ok","PASS",22277474,153041290,257002834
+"1469","Secrets &amp; Lies",1996,"ok","ok","PASS",6683242,19926891,19926891
+"1470","Set It Off",1996,"ok","ok","PASS",13366484,53538871,53538871
+"1471","Space Jam",1996,"notalk","notalk","FAIL",118813194,134353268,371588265
+"1472","Spy Hard",1996,"notalk","notalk","FAIL",26732969,40004796,40004796
+"1473","Star Trek: First Contact",1996,"ok-disagree","ok","PASS",68317587,136676591,222774739
+"1474","Striptease",1996,"dubious","dubious","FAIL",74258246,49173429,168283656
+"1475","That Thing You Do!",1996,"ok","ok","PASS",3712912,38402527,51323462
+"1476","The Cable Guy",1996,"notalk","notalk","FAIL",69802752,89466773,152713266
+"1477","The Craft",1996,"ok","ok","PASS",22277474,36786742,82678338
+"1478","The English Patient",1996,"ok","ok","PASS",51980772,116906798,344137032
+"1479","The Fan",1996,"notalk","notalk","FAIL",81684071,27598768,27598768
+"1480","The First Wives Club",1996,"ok","ok","PASS",44554948,156668864,269541399
+"1481","The Glimmer Man",1996,"notalk","notalk","FAIL",66832422,30304554,54067193
+"1482","The Hunchback of Notre Dame",1996,"notalk","notalk","FAIL",148516493,148722709,483421183
+"1483","The Long Kiss Goodnight",1996,"notalk-disagree","notalk","FAIL",96535720,49675220,49675220
+"1484","The Mirror Has Two Faces",1996,"ok","ok","PASS",62376927,61288998,61288998
+"1485","The Rock",1996,"notalk","notalk","FAIL",111387369,199115335,499118651
+"1486","Trainspotting",1996,"men","men","FAIL",4604011,24507872,35645124
+"1487","Twister",1996,"ok","ok","PASS",130694514,359244145,736493287
+"1488","Walking and Talking",1996,"ok","ok","PASS",1485165,1912120,2399710
+"1489","When the Cat&#39;s Away",1996,"ok","ok","PASS",445549,2454193,3751503
+"1490","Apollo 13",1995,"ok-disagree","ok","PASS",99370665,263057839,510765217
+"1491","Assassins",1995,"notalk","notalk","FAIL",76438973,46331600,127356911
+"1492","Batman Forever",1995,"notalk","notalk","FAIL",152877946,281342983,514478842
+"1493","Before Sunrise",1995,"nowomen","nowomen","FAIL",3821949,8062791,8062791
+"1494","Braveheart",1995,"men-disagree","men","FAIL",110072121,115492633,319514907
+"1495","Casino",1995,"men-disagree","men","FAIL",79496532,64878801,168777252
+"1496","Casper",1995,"ok","ok","PASS",84082870,153379682,431574441
+"1497","Clueless",1995,"ok","ok","PASS",20944279,86526587,86526587
+"1498","Congo",1995,"nowomen","nowomen","FAIL",76438973,123865278,232408620
+"1499","Copycat",1995,"dubious","dubious","FAIL",30575589,49000312,49000312
+"1500","Die Hard: With a Vengeance",1995,"notalk","notalk","FAIL",137590151,152897054,557210677
+"1501","Four rooms",1995,"notalk","notalk","FAIL",6115118,6575280,6575280
+"1502","Home for the holidays",1995,"ok","ok","PASS",30575589,26706076,33815484
+"1503","Jumanji",1995,"ok","ok","PASS",99370665,153578601,401699506
+"1504","Mallrats",1995,"notalk-disagree","notalk","FAIL",9325555,3223228,3223228
+"1505","Mortal Kombat",1995,"notalk","notalk","FAIL",30575589,107676871,186714768
+"1506","Outbreak",1995,"ok","ok","PASS",76438973,103687285,103687285
+"1507","Pocahontas",1995,"ok-disagree","ok","PASS",84082870,216444248,530639350
+"1508","Pride and Prejudice",1995,"ok-disagree","ok","PASS",42805825,58663337,184857731
+"1509","Sabrina",1995,"ok","ok","PASS",88669209,81725980,133156691
+"1510","Safe",1995,"ok","ok","PASS",50449722,26206460,63437029
+"1511","Se7en",1995,"notalk","notalk","FAIL",45863384,153070026,501631742
+"1512","Sense and Sensibility",1995,"ok","ok","PASS",25224861,65727998,206375709
+"1513","Showgirls",1995,"ok","ok","PASS",61151178,31111815,57712577
+"1514","Species",1995,"dubious","dubious","FAIL",53507281,91810008,173293953
+"1515","Tank Girl",1995,"ok","ok","PASS",38219486,6213469,6213469
+"1516","The American President",1995,"ok","ok","PASS",94784326,91761643,164837302
+"1517","The Bridges of Madison County",1995,"ok","ok","PASS",33633148,109333135,268326198
+"1518","The Incredibly True Adventures of Two Girls in Love",1995,"ok","ok","PASS",382195,3379226,3787024
+"1519","The Net",1995,"ok","ok","PASS",33633148,77389465,168963355
+"1520","The Quick and the Dead",1995,"notalk-disagree","notalk","FAIL",48920943,28362620,28362620
+"1521","The Usual Suspects",1995,"notalk","notalk","FAIL",9172677,35684110,52665468
+"1522","Toy Story",1995,"notalk-disagree","notalk","FAIL",45863384,293190647,557286202
+"1523","Twelve Monkeys",1995,"notalk","notalk","FAIL",44334604,87356689,258121354
+"1524","Waterworld",1995,"nowomen-disagree","nowomen","FAIL",267536405,134909008,403974193
+"1525","Welcome to the Dollhouse",1995,"ok","ok","PASS",1223024,6418026,7697090
+"1526","Ace Ventura: Pet Detective",1994,"men","men","FAIL",18859976,113501532,168509796
+"1527","Beverly Hills Cop III",1994,"nowomen","nowomen","FAIL",78583235,66932266,187312473
+"1528","Clerks.",1994,"notalk","notalk","FAIL",42435,4830398,6120440
+"1529","Crooklyn",1994,"ok","ok","PASS",22003306,20469628,20469628
+"1530","Dumb &amp; Dumber",1994,"men","men","FAIL",25146635,199877046,387258182
+"1531","Ed Wood",1994,"ok","ok","PASS",28289965,9160394,9160394
+"1532","Forrest Gump",1994,"notalk-disagree","notalk","FAIL",86441558,518169206,1067789822
+"1533","Legends of the Fall",1994,"ok","ok","PASS",47149941,104519746,252256228
+"1534","Little Women",1994,"ok","ok","PASS",23574970,78588426,78588426
+"1535","Naked Gun 33 1/3: The Final Insult",1994,"men","men","FAIL",47149941,80220683,80220683
+"1536","Police Academy: Mission to Moscow",1994,"notalk","notalk","FAIL",15716647,198418,198418
+"1537","Priest",1994,"ok","ok","PASS",94299882,45793007,132261912
+"1538","Pulp Fiction",1994,"ok-disagree","ok","PASS",12573318,169627825,334652619
+"1539","Speed",1994,"ok","ok","PASS",47149941,190561429,445095443
+"1540","Stargate",1994,"notalk","notalk","FAIL",86441558,112477236,308935323
+"1541","Street Fighter",1994,"ok","ok","PASS",55008264,52529749,156259619
+"1542","The Client",1994,"ok","ok","PASS",70724911,144774225,184851675
+"1543","The Hudsucker Proxy",1994,"notalk","notalk","FAIL",62866588,4426622,23477761
+"1544","The Lion King",1994,"notalk-disagree","notalk","FAIL",124633011,664468621,1497608078
+"1545","The Mask",1994,"notalk","notalk","FAIL",28289965,188474233,552628944
+"1546","The Santa Clause",1994,"notalk","notalk","FAIL",34576623,227629474,298301960
+"1547","The Shadow",1994,"nowomen","nowomen","FAIL",62866588,50034889,50034889
+"1548","The Shawshank Redemption",1994,"nowomen-disagree","nowomen","FAIL",39291617,44386120,44386120
+"1549","The Specialist",1994,"notalk","notalk","FAIL",70724911,90154744,90154744
+"1550","Timecop",1994,"notalk","notalk","FAIL",44006612,70494790,160394011
+"1551","True Lies",1994,"notalk-disagree","notalk","FAIL",157166470,229906901,574129115
+"1552","Cliffhanger",1993,"notalk","notalk","FAIL",104809829,135525899,411177020
+"1553","Cool Runnings",1993,"notalk-disagree","notalk","FAIL",22574425,111027894,250021852
+"1554","Dazed and Confused",1993,"ok-disagree","ok","PASS",11125966,12820482,12820482
+"1555","Gettysburg",1993,"nowomen","nowomen","FAIL",40311473,17304904,17304904
+"1556","Groundhog Day",1993,"men-disagree","men","FAIL",23541900,114334580,114334580
+"1557","Hocus Pocus",1993,"ok","ok","PASS",45148849,63467174,63467174
+"1558","Jurassic Park",1993,"ok-disagree","ok","PASS",101584911,638063379,1669905770
+"1559","Mrs. Doubtfire",1993,"ok","ok","PASS",40311473,353443011,711555544
+"1560","Pieces of April",1993,"ok","ok","PASS",483738,4077367,5789647
+"1561","Schindler&#39;s List",1993,"ok","ok","PASS",40311473,154904378,518188770
+"1562","Super Mario Bros.",1993,"dubious","dubious","FAIL",67723274,33611556,33611556
+"1563","The Age of Innocence",1993,"ok","ok","PASS",54823603,51622860,51622860
+"1564","The Fugitive",1993,"men","men","FAIL",70948192,296492106,570351412
+"1565","The Princess and the Cobbler",1993,"nowomen","nowomen","FAIL",38699014,1079180,1079180
+"1566","The Remains of the Day",1993,"nowomen-disagree","nowomen","FAIL",24186884,37013943,103124758
+"1567","Tombstone",1993,"ok","ok","PASS",40311473,91112095,91112095
+"1568","A Few Good Men",1992,"notalk","notalk","FAIL",54791459,234673774,392672121
+"1569","A League of Their Own",1992,"ok","ok","PASS",66413889,178543655,219896498
+"1570","Aladdin",1992,"nowomen","nowomen","FAIL",46489723,360876835,836898388
+"1571","Alien 3",1992,"nowomen-disagree","nowomen","FAIL",91319098,91198182,263165037
+"1572","Army of Darkness",1992,"men-disagree","men","FAIL",18263820,19098934,35702407
+"1573","Batman Returns",1992,"nowomen-disagree","nowomen","FAIL",132827779,270360376,443020974
+"1574","Buffy the Vampire Slayer",1992,"ok","ok","PASS",11622431,23629512,23629512
+"1575","Death Becomes Her",1992,"ok","ok","PASS",91319098,97001885,247429345
+"1576","El Mariachi",1992,"nowomen","nowomen","FAIL",11622,3388636,3390310
+"1577","Glengarry Glen Ross",1992,"nowomen","nowomen","FAIL",20754340,17807603,17807603
+"1578","Hero",1992,"notalk","notalk","FAIL",69734584,32355474,110889898
+"1579","Home Alone 2: Lost in New York",1992,"notalk","notalk","FAIL",33206945,288212232,596056107
+"1580","Malcolm X",1992,"dubious","dubious","FAIL",58112153,79978777,79978777
+"1581","My Cousin Vinny",1992,"notalk","notalk","FAIL",18263820,87880798,87880798
+"1582","Reservoir Dogs",1992,"nowomen","nowomen","FAIL",1992417,4702152,4702152
+"1583","The Crying Game",1992,"men","men","FAIL",6641389,103849232,103849232
+"1584","The Mighty Ducks",1992,"notalk","notalk","FAIL",16603472,84266502,84266502
+"1585","The Muppet Christmas Carol",1992,"notalk-disagree","notalk","FAIL",19924167,45296775,45296775
+"1586","The Player",1992,"ok","ok","PASS",13282778,36039665,47945352
+"1587","Wayne&#39;s World",1992,"notalk","notalk","FAIL",33206945,202059814,304005134
+"1588","Beauty and the Beast",1991,"ok-disagree","ok","PASS",34216807,374591278,772310338
+"1589","Bill &amp; Ted&#39;s Bogus Journey",1991,"notalk","notalk","FAIL",34216807,64220970,64220970
+"1590","Hook",1991,"men","men","FAIL",119758826,204710301,514714575
+"1591","Hudson Hawk",1991,"ok","ok","PASS",111204624,29458817,29458817
+"1592","Robin Hood: Prince of Thieves",1991,"dubious","dubious","FAIL",85542018,283133658,668083163
+"1593","Slacker",1991,"ok","ok","PASS",39349,2100070,2100070
+"1594","Star Trek VI: The Undiscovered Country",1991,"men-disagree","men","FAIL",46192690,128123117,165780431
+"1595","Teenage Mutant Ninja Turtles II: The Secret of the Ooze",1991,"ok","ok","PASS",42771009,134569251,134569251
+"1596","Terminator 2: Judgement Day",1991,"dubious","dubious","FAIL",171084037,350481895,884189932
+"1597","The Addams Family",1991,"ok","ok","PASS",51325211,194184224,327629772
+"1598","The Naked Gun 2 1/2: The Smell of Fear",1991,"notalk","notalk","FAIL",39349328,148724056,148724056
+"1599","The Silence of the Lambs",1991,"ok-disagree","ok","PASS",34216807,223652543,471724395
+"1600","White Fang",1991,"notalk","notalk","FAIL",23951765,59415931,59415931
+"1601","Back to the Future Part III",1990,"notalk","notalk","FAIL",71319016,156307443,434511105
+"1602","Child&#39;s Play 2",1990,"ok","ok","PASS",23178680,47970190,60918157
+"1603","Dark Angel (I Come in Peace)",1990,"nowomen","nowomen","FAIL",12480828,7796169,7796169
+"1604","Die Hard 2",1990,"dubious-disagree","dubious","FAIL",124808278,209185588,427582507
+"1605","Edward Scissorhands",1990,"ok","ok","PASS",35659508,96239640,96239640
+"1606","Flatliners",1990,"ok","ok","PASS",46357360,109310929,109310929
+"1607","Ghost",1990,"men-disagree","men","FAIL",39225459,388031265,922868068
+"1608","Goodfellas",1990,"men-disagree","men","FAIL",44574385,83343062,83343062
+"1609","Home Alone",1990,"men-disagree","men","FAIL",26744631,509505267,849917050
+"1610","Nikita",1990,"ok","ok","PASS",12480828,8946919,8946919
+"1611","Predator 2",1990,"men","men","FAIL",62404139,50489429,97650742
+"1612","Pretty Woman",1990,"ok","ok","PASS",24961656,318093987,771396947
+"1613","The Hunt for Red October",1990,"notalk","notalk","FAIL",53489262,215222722,357486568
+"1614","Total Recall",1990,"notalk","notalk","FAIL",222871925,104977970,354127435
+"1615","Tremors",1990,"ok","ok","PASS",17829754,29717001,29717001
+"1616","Back to the Future Part II",1989,"ok","ok","PASS",75183554,222637302,624023495
+"1617","Batman",1989,"notalk","notalk","FAIL",65785609,472131898,773166847
+"1618","Bill &amp; Ted&#39;s Excellent Adventure",1989,"men","men","FAIL",18795888,76095227,76095227
+"1619","Dead Poets Society",1989,"notalk","notalk","FAIL",30825257,180177604,450161527
+"1620","Henry V",1989,"ok","ok","PASS",16916300,19098688,19098688
+"1621","Indiana Jones and the Last Crusade",1989,"nowomen-disagree","nowomen","FAIL",90220264,370601926,891248035
+"1622","Licence to Kill",1989,"men","men","FAIL",78942731,65159735,293529779
+"1623","Major League",1989,"notalk","notalk","FAIL",20675477,93590469,93590469
+"1624","Road House",1989,"notalk","notalk","FAIL",18795888,56481697,56481697
+"1625","Sex, Lies, and Videotape",1989,"men-disagree","men","FAIL",2255507,46504161,69059227
+"1626","Star Trek V: The Final Frontier",1989,"notalk","notalk","FAIL",56387665,98133425,131947137
+"1627","The Abyss",1989,"ok-disagree","ok","PASS",131571219,101954772,101954772
+"1628","Troop Beverly Hills",1989,"ok","ok","PASS",33832599,13515193,13515193
+"1629","UHF",1989,"notalk","notalk","FAIL",9397944,11572924,11572924
+"1630","Action Jackson",1988,"notalk","notalk","FAIL",13787529,39899139,39899139
+"1631","Akira",1988,"notalk","notalk","FAIL",15757176,38576,38576
+"1632","Beetle Juice",1988,"ok","ok","PASS",29544705,144427648,144427648
+"1633","Bloodsport",1988,"notalk","notalk","FAIL",2954471,23253887,23253887
+"1634","Child&#39;s Play",1988,"ok","ok","PASS",17726823,65480292,87051866
+"1635","Dangerous Liaisons",1988,"ok","ok","PASS",27575058,68346751,68346751
+"1636","Die Hard",1988,"ok-disagree","ok","PASS",55150116,160231261,273996307
+"1637","Midnight Run",1988,"men","men","FAIL",59089410,75661244,160749995
+"1638","My Stepmother Is an Alien",1988,"ok","ok","PASS",31514352,27287490,27287490
+"1639","Mystic Pizza",1988,"ok","ok","PASS",11817882,25198114,25198114
+"1640","Poltergeist III",1988,"ok","ok","PASS",18711647,27799598,27799598
+"1641","Rain Man",1988,"notalk","notalk","FAIL",49241175,340405101,813070285
+"1642","Scrooged",1988,"ok","ok","PASS",63028704,118825964,118825964
+"1643","The Land Before Time",1988,"ok","ok","PASS",24226658,94725930,161457571
+"1644","The Last Temptation of Christ",1988,"men","men","FAIL",13787529,16493007,16493007
+"1645","They Live",1988,"nowomen-disagree","nowomen","FAIL",7878588,25605411,25605411
+"1646","Twins",1988,"men","men","FAIL",29544705,220475172,426625542
+"1647","Who Framed Roger Rabbit",1988,"notalk","notalk","FAIL",137875291,303547209,692330924
+"1648","Young Guns",1988,"notalk","notalk","FAIL",25605411,88095701,88095701
+"1649","Beverly Hills Cop II",1987,"notalk","notalk","FAIL",41007948,315074388,567273267
+"1650","Evil Dead II",1987,"dubious-disagree","dubious","FAIL",7176391,12144594,12144594
+"1651","Fatal Attraction",1987,"dubious","dubious","FAIL",28705563,321185920,656332204
+"1652","Good Morning, Vietnam",1987,"notalk","notalk","FAIL",26655166,254090104,254090104
+"1653","Hellraiser",1987,"ok","ok","PASS",2050397,29861988,29861988
+"1654","Lethal Weapon",1987,"notalk-disagree","notalk","FAIL",30755961,133670224,246442080
+"1655","Predator",1987,"nowomen","nowomen","FAIL",36907153,122481612,201487544
+"1656","Radio Days",1987,"notalk","notalk","FAIL",32806358,30331075,30331075
+"1657","RoboCop",1987,"notalk","notalk","FAIL",246047687,112289613,454321579
+"1658","Spaceballs",1987,"dubious-disagree","dubious","FAIL",46544021,78160088,78160088
+"1659","Superman IV: The Quest for Peace",1987,"ok","ok","PASS",34856756,23021501,23021501
+"1660","The Last Emperor",1987,"dubious","dubious","FAIL",51259935,90184679,90184679
+"1661","The Lost Boys",1987,"notalk","notalk","FAIL",17428378,66069067,66069067
+"1662","The Princess Bride",1987,"men-disagree","men","FAIL",30755961,63269112,63269112
+"1663","Aliens",1986,"ok-disagree","ok","PASS",36104000,180860331,389321020
+"1664","Crocodile Dundee",1986,"dubious","dubious","FAIL",10618824,371241520,696594829
+"1665","Highlander",1986,"ok-disagree","ok","PASS",33980236,12530212,27396565
+"1666","Howard The Duck",1986,"dubious","dubious","FAIL",63712942,34608390,34608390
+"1667","Little Shop of Horrors",1986,"notalk-disagree","notalk","FAIL",63712942,82290329,82290329
+"1668","Peggy Sue Got Married",1986,"ok","ok","PASS",38227765,87887418,87887418
+"1669","Platoon",1986,"nowomen","nowomen","FAIL",12742588,293001649,293001649
+"1670","Stand By Me",1986,"nowomen","nowomen","FAIL",16990118,111046165,111046165
+"1671","The Clan of the Cave Bear",1986,"ok","ok","PASS",31856471,4149267,4149267
+"1672","Top Gun",1986,"men","men","FAIL",31856471,381854174,757760530
+"1673","Back to the Future",1985,"notalk-disagree","notalk","FAIL",41136059,455981879,831110482
+"1674","Brazil",1985,"ok","ok","PASS",32475836,21497131,21497131
+"1675","Commando",1985,"notalk","notalk","FAIL",21650558,75937118,75937118
+"1676","Day of the Dead",1985,"nowomen","nowomen","FAIL",38971004,NA,NA
+"1677","Ladyhawke",1985,"nowomen","nowomen","FAIL",43301115,39837026,39837026
+"1678","Legend",1985,"dubious","dubious","FAIL",54126394,33562937,33562937
+"1679","My Beautiful Laundrette",1985,"men","men","FAIL",866022,NA,NA
+"1680","Red Sonja",1985,"ok","ok","PASS",38754498,14951574,14951574
+"1681","Return to Oz",1985,"ok","ok","PASS",58456506,22990322,22990322
+"1682","The Color Purple",1985,"ok","ok","PASS",32475836,202626921,202626921
+"1683","A nightmare on Elm Street",1984,"men-disagree","men","FAIL",78450540,141379105,263884353
+"1684","Amadeus",1984,"ok-disagree","ok","PASS",40345992,116494634,116494634
+"1685","Beverly Hills Cop",1984,"nowomen","nowomen","FAIL",33621660,526202467,708968739
+"1686","Body Double",1984,"men","men","FAIL",22414440,19729056,19729056
+"1687","Conan the Destroyer",1984,"dubious","dubious","FAIL",40345992,59174122,59174122
+"1688","Dune",1984,"dubious-disagree","dubious","FAIL",100864980,61521969,61521969
+"1689","Friday the 13th Part IV: The Final Chapter",1984,"ok","ok","PASS",5827754,73924796,73924796
+"1690","Ghostbusters",1984,"notalk-disagree","notalk","FAIL",67243320,534880544,653677077
+"1691","Gremlins",1984,"notalk-disagree","notalk","FAIL",24655884,332111304,332111304
+"1692","Indiana Jones and the Temple of Doom",1984,"nowomen","nowomen","FAIL",62760432,403191555,746580777
+"1693","Police Academy",1984,"dubious","dubious","FAIL",10086498,182002774,182002774
+"1694","Repo Man",1984,"men","men","FAIL",3362166,5155321,5155321
+"1695","Splash",1984,"notalk","notalk","FAIL",17931552,140313263,140313263
+"1696","Star Trek III: The Search for Spock",1984,"notalk","notalk","FAIL",40345992,171405568,195005629
+"1697","The Karate Kid",1984,"ok","ok","PASS",89657760,395820224,804883755
+"1698","The Terminator",1984,"men-disagree","men","FAIL",14345242,85217529,174875289
+"1699","Flashdance",1983,"ok","ok","PASS",16375486,211626424,471294841
+"1700","Star Wars: Episode VI - Return of the Jedi",1983,"nowomen-disagree","nowomen","FAIL",76029041,723340482,1339748672
+"1701","Superman III",1983,"ok","ok","PASS",91234849,140245796,140245796
+"1702","Videodrome",1983,"men","men","FAIL",13923842,4960460,4960460
+"1703","WarGames",1983,"notalk","notalk","FAIL",28072261,174127177,174127177
+"1704","Blade Runner",1982,"notalk","notalk","FAIL",67571504,78808471,79974780
+"1705","Cat People",1982,"ok","ok","PASS",30165850,16892876,50678628
+"1706","Conan the Barbarian",1982,"notalk","notalk","FAIL",48265360,92341492,190923490
+"1707","Diner",1982,"notalk","notalk","FAIL",12066340,30390060,30390060
+"1708","E.T.: The Extra-Terrestrial",1982,"dubious","dubious","FAIL",25339314,1050038377,1913637848
+"1709","Fast Times at Ridgemont High",1982,"men","men","FAIL",10859706,65382380,65382380
+"1710","First Blood",1982,"nowomen","nowomen","FAIL",33785752,113937390,302172295
+"1711","Friday the 13th Part III",1982,"dubious","dubious","FAIL",5429853,88542965,88542965
+"1712","Poltergeist",1982,"ok","ok","PASS",25821968,180285645,293709241
+"1713","Porky&#39;s",1982,"men","men","FAIL",9653072,264234708,264234708
+"1714","Star Trek: The Wrath of Khan",1982,"dubious-disagree","dubious","FAIL",28959216,192851397,233604343
+"1715","The Best Little Whorehouse in Texas",1982,"ok","ok","PASS",49471994,168208730,168208730
+"1716","Tootsie",1982,"notalk-disagree","notalk","FAIL",36199020,427631090,427631090
+"1717","TRON",1982,"nowomen-disagree","nowomen","FAIL",41025556,64961738,64961738
+"1718","Das Boot",1981,"nowomen","nowomen","FAIL",30742635,29430119,217684336
+"1719","Escape from New York",1981,"nowomen-disagree","nowomen","FAIL",15371317,64674049,64674049
+"1720","Friday the 13th Part 2",1981,"notalk","notalk","FAIL",3202358,55651281,55651281
+"1721","Halloween II",1981,"ok","ok","PASS",6404716,65414737,65414737
+"1722","Heavy Metal",1981,"notalk","notalk","FAIL",23825542,50138908,50138908
+"1723","History of the World: Part I",1981,"notalk-disagree","notalk","FAIL",28180748,81140060,81140060
+"1724","Raiders of the Lost Ark",1981,"nowomen-disagree","nowomen","FAIL",51237724,635757611,998945973
+"1725","The Evil Dead",1981,"notalk","notalk","FAIL",960707,6148527,75319455
+"1726","Time Bandits",1981,"notalk","notalk","FAIL",30742635,95814545,95814545
+"1727","Airplane!",1980,"dubious","dubious","FAIL",9897188,235987236,235987236
+"1728","Can&#39;t Stop the Music",1980,"ok","ok","PASS",56555357,5655536,5655536
+"1729","Fame",1980,"ok","ok","PASS",50899822,63498970,220444178
+"1730","Flash Gordon",1980,"dubious","dubious","FAIL",98971875,76655018,76655018
+"1731","Friday the 13th",1980,"men-disagree","men","FAIL",48072054,183810620,259308493
+"1732","Heaven&#39;s Gate",1980,"nowomen","nowomen","FAIL",124421786,9852879,9852879
+"1733","Private Benjamin",1980,"ok","ok","PASS",42416518,197512086,197512086
+"1734","Raging Bull",1980,"notalk","notalk","FAIL",50899822,66113787,66113787
+"1735","Somewhere in Time",1980,"men","men","FAIL",14421616,27456486,27456486
+"1736","Star Wars: Episode V - The Empire Strikes Back",1980,"nowomen-disagree","nowomen","FAIL",65038661,820821721,1510514303
+"1737","Superman II",1980,"dubious","dubious","FAIL",152699465,305924063,305924063
+"1738","The Blues Brothers",1980,"notalk","notalk","FAIL",76349732,161832844,161832844
+"1739","The Fog",1980,"ok","ok","PASS",50899822,83450574,104764631
+"1740","The Shining",1980,"men-disagree","men","FAIL",53727589,124470916,124470916
+"1741","Alien",1979,"ok","ok","PASS",28886103,259752278,653566146
+"1742","Apocalypse Now",1979,"nowomen-disagree","nowomen","FAIL",101101360,252913878,252913878
+"1743","Moonraker",1979,"notalk","notalk","FAIL",99496576,225632559,674971936
+"1744","Star Trek: The Motion Picture",1979,"notalk","notalk","FAIL",112334844,264014024,446129810
+"1745","The Amityville Horror",1979,"ok","ok","PASS",59376989,209370867,350406635
+"1746","Animal House",1978,"men","men","FAIL",10712118,505611968,505611968
+"1747","Dawn of the Dead",1978,"nowomen","nowomen","FAIL",99979768,210638678,369399800
+"1748","Days of Heaven",1978,"ok","ok","PASS",10712118,12307327,13071926
+"1749","Grease",1978,"ok","ok","PASS",21424236,649203517,1383697739
+"1750","Halloween",1978,"dubious","dubious","FAIL",53560590,208062006,276781136
+"1751","I Spit on Your Grave",1978,"nowomen","nowomen","FAIL",6248735,332258,4565044
+"1752","Superman",1978,"notalk","notalk","FAIL",196388829,479253080,1071925937
+"1753","The Deer Hunter",1978,"notalk","notalk","FAIL",53560590,178535299,178535299
+"1754","A Bridge Too Far",1977,"notalk","notalk","FAIL",99921804,195231833,195231833
+"1755","Annie Hall",1977,"ok","ok","PASS",15372585,147005823,147005823
+"1756","Close Encounters of the Third Kind",1977,"notalk","notalk","FAIL",76862926,637962288,1297830510
+"1757","Eraserhead",1977,"nowomen","nowomen","FAIL",384315,26902024,26902024
+"1758","High Anxiety",1977,"notalk","notalk","FAIL",13066697,119379800,119379800
+"1759","Julia",1977,"ok","ok","PASS",23058878,250220,5246310
+"1760","Star Wars",1977,"notalk","notalk","FAIL",42274609,1771682790,3066446442
+"1761","Assault on Precinct 13",1976,"notalk","notalk","FAIL",122754817,82003880,147473116
+"1762","Family Plot",1976,"ok","ok","PASS",12275482,54012120,54012120
+"1763","Logan&#39;s Run",1976,"men","men","FAIL",28642791,102295681,102295681
+"1764","Network",1976,"ok","ok","PASS",15548943,96934884,96934884
+"1765","Rocky",1976,"notalk","notalk","FAIL",4091827,479705967,920661128
+"1766","Silent Movie",1976,"notalk","notalk","FAIL",18004040,147901939,147901939
+"1767","Sparkle",1976,"ok","ok","PASS",40918272,99830228,100905781
+"1768","Taxi Driver",1976,"notalk","notalk","FAIL",4091827,115645570,115645570
+"1769","Barry Lyndon",1975,"notalk","notalk","FAIL",47609104,86562007,86562007
+"1770","Jaws",1975,"notalk","notalk","FAIL",51937204,1125306085,2037236823
+"1771","Monty Python and the Holy Grail",1975,"men","men","FAIL",1731240,14835412,21765791
+"1772","One Flew Over the Cuckoo&#39;s Nest",1975,"men","men","FAIL",19043641,471681892,471681892
+"1773","The Rocky Horror Picture Show",1975,"dubious-disagree","dubious","FAIL",5193720,605399166,605399166
+"1774","Black Christmas",1974,"ok","ok","PASS",42513535,76693179,76693179
+"1775","Blazing Saddles",1974,"notalk","notalk","FAIL",12281688,564485269,564485269
+"1776","The Conversation",1974,"notalk","notalk","FAIL",7557962,20878869,20878869
+"1777","The Godfather: Part II",1974,"ok","ok","PASS",61408439,270669505,270669505
+"1778","The Texas Chain Saw Massacre",1974,"notalk","notalk","FAIL",661322,125520924,125520924
+"1779","The Towering Inferno",1974,"notalk","notalk","FAIL",661322,125520924,125520924
+"1780","Young Frankenstein",1974,"men","men","FAIL",13226433,407657562,407657562
+"1781","American Graffiti",1973,"men","men","FAIL",4074506,603047833,734145189
+"1782","High Plains Drifter",1973,"notalk","notalk","FAIL",82329139,82329139,82329139
+"1783","Sleeper",1973,"notalk","notalk","FAIL",10487788,96197818,96197818
+"1784","The Exorcist",1973,"ok","ok","PASS",62926730,1074306128,2111900435
+"1785","The Sting",1973,"notalk","notalk","FAIL",28841418,837011132,837011132
+"1786","1776",1972,"notalk","notalk","FAIL",22288557,NA,NA
+"1787","Pink Flamingos",1972,"ok","ok","PASS",66866,2305762,2305762
+"1788","The Godfather",1972,"notalk-disagree","notalk","FAIL",39004975,752051643,1496119403
+"1789","Escape from the Planet of the Apes",1971,"notalk","notalk","FAIL",14386286,70780525,70780525
+"1790","Shaft",1971,"notalk","notalk","FAIL",305063707,404702718,616827003
+"1791","Straw Dogs",1971,"notalk","notalk","FAIL",143862856,59412143,64760273
+"1792","The French Connection",1971,"notalk","notalk","FAIL",12659931,236848653,236848653
+"1793","Willy Wonka &amp; the Chocolate Factory",1971,"men-disagree","men","FAIL",17263543,23018057,23018057
+"1794","Beyond the Valley of the Dolls",1970,"ok","ok","PASS",5997631,53978683,53978683

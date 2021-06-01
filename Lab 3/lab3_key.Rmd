@@ -1,0 +1,59 @@
+---
+title: "Lab 3 Key"
+author: "Sophie Moore"
+date: "5/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+bechdel_data <- read.csv("movies.csv")
+```
+
+__2. What are the null and alternative hypotheses for this test? (Hint: pay attention to the direction of your hypotheses)__
+<!-- Your response here -->
+H0: $\mu_{budget} \leq 50,000,000$
+Ha: $\mu_{budget} > 50,000,000$
+
+```{r}
+n <- nrow(bechdel_data)
+mean <- mean(bechdel_data$budget_2013)
+sd <- sd(bechdel_data$budget_2013)
+mu <- 50000000
+
+(t_stat <- (mean - mu) / (sd / sqrt(n)))
+```
+
+__3. Calculate the t-statistic "by-hand" and report it below__
+4.214543
+
+```{r}
+pt(q = t_stat, 
+   df = 1793, 
+   lower.tail = FALSE)
+```
+
+
+```{r}
+t.test(bechdel_data$budget_2013, 
+       alternative = "greater",
+       mu = 50000000)
+```
+
+__4. Based on the question, will this be a one-sided or two-sided p-value?__
+One-sided
+
+__5. Report your p-value below__
+1.313657e-05
+```{r}
+pt(t_stat, n-1, lower.tail = FALSE)
+```
+
+```{r}
+t.test(bechdel_pass$intgross_2013, bechdel_fail$intgross_2013, alternative = "greater", mu = 0)
+```
+
