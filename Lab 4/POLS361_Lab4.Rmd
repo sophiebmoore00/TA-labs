@@ -1,0 +1,83 @@
+---
+title: 'Lab 4: Hypothesis Testing Cont.'
+author: "Your Name"
+date: "May 2021"
+output: html_document
+---
+
+Today we will be extending last week's lab in order to learn more about hypothesis testing, as well as learning a few new tools for working with data in R. 
+
+First, run the code chunk below to load the tidyverse, which is an R package that adds a lot of functionality to base R in order to make data science with R easier! For more information, visit the [tidyverse website](https://www.tidyverse.org/). 
+
+Note: if you have not yet installed the tidyverse to your computer (you only need to do this once), then uncomment the line of code that says `install.packages("tidyverse")` before running the code chunk.**You only need to install each R package one time, so only run install.packages() if you have never installed tidyverse before!!**
+
+```{r}
+#install.packages("tidyverse")
+library(tidyverse)
+```
+
+In this lab we will be working with data on newborn babies and their parents. The dataset comes from [The University of Sheffield](https://www.sheffield.ac.uk/mash/statistics/datasets) and includes variables such as baby's length and weight, gestation length, whether or not the mother is a smoker, mother's age/height/weight, etc. Please note that these data have been slightly exaggerated in order to make it easier to find meaningful statistical differences, so take all results with a grain of salt!
+
+__1. Load in the data using `read.csv()` and name your new object `birthweight_data`__
+
+Hint: if the data reads in strangely, and there is an extra row at the top, remember to use the `skip = 1` argument in your function call. There should be 42 observations and 10 variables. 
+
+```{r}
+# Read in your data here
+
+```
+
+We are going to revisit two-way t-tests, using the `t.test()` function. 
+
+There is a lot of research to support the idea that pregnant people should refrain from smoking. So does smoking affect the birthweight of babies? The question we are going to investigate in this lab is **Do the children of mothers who smoke have a different average birthweight than the babies of non-smoking mothers?**
+
+Recall that we could easily just find the mean birthweight of babies of smokers vs. non-smokers in our data, but the reason we will conduct a hypothesis test is to help us determine if we can generalize our findings beyond our sample, i.e., is it reasonable to say (based on our sample) that there is a true difference in birthweight of babies born to smokers vs. non-smokers in the general population of babies. 
+
+First, we will need to create 2 datasets: one that stores all the babies of smokers, and one with all the babies of non-smokers. To do this, we will use the `filter()` function from the tidyverse (so make sure you have installed and loaded the tidyverse). 
+
+The `filter()` function is used to subset the rows of a dataframe using column values. For example, in a hypothetical dataframe we could keep all rows that have a value greater than 5 for a variable `x`. For more info, open the help file (choose the function from dplyr). 
+
+For this question, we want one dataframe with all the babies with moms who smoke, and a second dataframe with all the babies of moms who do not smoke. Use the column `smoker` to sort them (1 = smoker, 0 = nonsmoker). 
+
+__2. Create a dataframe using `filter()` called `smokers` and one called `nonsmokers`, each with the respective observations for babies born of smokers and babies born of non-smokers.__
+
+* Use the `.data` argument to supply the name of the dataset
+* Give a logical condition to tell R which rows to keep (Hint: this means logical operators such as ==, <, >, >=, <=, etc.)
+    * Remember that to check if two things are equal, use `==` , not `=` , because `==` is the logical operator and `=` is an assigner (similar to `<-`)
+
+```{r}
+# Edit this code chunk to complete the calls to filter()
+
+smokers <- filter(.data = , )
+nonsmokers <- filter(.data = , )
+```
+
+Great! Now we have two groups, and we can try to determine if there is a statistically significant difference between the means of the `birthweight` of these two groups with a two sample t-test!
+
+__3. What are the null and alternative hypotheses?__
+
+
+__4. Will this t-test be one-sided or two-sided?__
+
+
+__5. Use the code chunk below to run a two sample t-test with `t.test()`. Refer back to lab 3 for reference on this function if needed.__
+
+```{r}
+# Write your call to t.test() in this chunk
+
+```
+
+__6. What are your t-statistic and p-value? Interpret your p-value and decide to reject or fail to reject the null.__
+
+
+## Optional Extra Credit
+
+Create a plot of two variables in the dataset. You can create a scatterplot to view the relationship between two quantitative variables, a bar plot to investigate a categorical variable, a histogram to look at the distribution of a quantitative variable, etc. 
+
+Feel free to use base R or ggplot. You can refer back to previous labs for reference on base R plots and ggplot, or use the help files and/or Google!
+
+```{r}
+# Create your plot here 
+
+```
+
